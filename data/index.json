@@ -1,0 +1,119 @@
+{
+
+    "about": [
+        "I graduated at Tshwane University of Technology in 2014 as a Software Developer and I've gained knowledge in data science, database, programming, data analysis, project management and many more.",
+        "I am currently employed as a coding lecturer at Life Choices and also run my own business, JT Devs. As a part-time YouTuber, I teach people different programming languages."
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2023,
+            "description": "I currently studying web development",
+            "place": "Life Choices",
+            "type": "certificate"
+        },
+        {
+            "id": 2,
+            "year": 2023,
+            "description": "I got my certificates on Software Development",
+            "place": "Codetelligence Academy",
+            "type": "certificate",
+      
+        },
+        {
+            "id": 3,
+            "year": 2018,
+            "description": "I got my certificates on Full stack web development",
+            "place": "Codex",
+            "type": "certificate",
+        
+        },
+        {
+            "id": 4,
+            "year": 2016,
+            "description": "I got my certificate on Higher Certificate",
+            "place": "Luhlaza High School",
+            "type": "certificate",
+        }
+       
+    ],
+    "skills": [
+        {
+            "title": "GIT & GITHUB",
+            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+        },
+        {
+            "title": "HTML",
+            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+        },
+        {
+            "title": "CSS",
+            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+        },
+        {
+            "title": "BOOTSTRAP",
+            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+        },
+        {
+            "title": "VUEJS",
+            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Mzwakhe",
+            "surname": "Louw",
+            "quotes": "Mzwamandoda Louw is a highly dedicated and inquisitive individual with an unwavering focus on achieving project goals. During our collaborative work on a company website project, he consistently exhibited a strong commitment to learning and problem-solving. Even when we encountered challenges that seemed insurmountable, he demonstrated a remarkable willingness to go the extra mile and thoroughly investigate areas that required further understanding until he successfully grasped the concepts..",
+            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+        },
+        {
+            "name": "Damon",
+            "surname": "Ruffels",
+            "quotes": "JMzwamadoda is a hard-working, driven individual who dedicates himself to tasks wholly. He is a well-mannered, honest man with a big heart, strong determination to better himself and is an absolute joy to work with.",
+            "profile": "https://i.postimg.cc/DyGHNwPV/ruth.jpg"
+        },
+        {
+            "name": "Anathi",
+            "surname": "Josefu",
+            "quotes": "Mzwamadoda Shawn Louw is a happy and thriving classmates who loves studying.He is a well-rounded classmate who is doing well in all areas. He is very responsible,passionate,dedicated and enthusiastic in his school work. He knows how to communicate with his peers, kind, humble and he is always willing to assist his classmates when they ask for help..",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        },
+        {
+            "name": "Taryn-lee",
+            "surname": "Walbrugh",
+            "quotes": "Mzwamadoda is truly an amazing person who is always willing to help those around him ,he is both compassionate and kind .Mzwamadoda's work ethic and professionalism are impeccable and admirable.he is truly an inspiration to other around him..",
+            "profile": "https://i.postimg.cc/3rZ0H0D8/profile-Image.png"
+        }
+    ],
+    "projects":[
+        {
+            "name": "Calculator",
+            "description": "I built this calculator application using HTML 5, CSS and Javascript.",
+            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
+            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
+            "netlify": "https://joel-todo-list.netlify.app/"
+        },
+        {
+            "name": "Temperature Converter(F-C)",
+            "description": "This is my Temperature Converter app, and I built it using HTML 5, CSS 3, bootstrap and Javascript.",
+            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
+            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
+            "netlify": "https://regexpcalculator.netlify.app/"
+        },
+        {
+            "name": "Random People API",
+            "description": "This is my introduction to API website that I build using HTML, CSS, BOOTSTRAP AND JAVASCRIPT.",
+            "image": "https://i.postimg.cc/k4tqF1Ln/message-Believer-Circle.png",
+            "gitHub": "https://github.com/codjoelmayer/messageBelieversCircle.git",
+            "netlify": "https://messagebelieverscircle-3491d.web.app/"
+        },
+        {
+            "name": "to-do List",
+            "description": "I build this to-do list application using html, css and javascript",
+            "image": "https://i.postimg.cc/g2YVCx3R/JTLaptop.png",
+            "gitHub": "https://github.com/codjoelmayer/JTLaptops.git",
+            "netlify": "https://jtlaptops.netlify.app/"
+        },
+        
+    ]
+}
