@@ -1,11 +1,9 @@
 {
-
     "jobTitle": [
         {
             "title": "Aspiring Web developer"
-        }  
+        }
     ],
-
     "about": [
         "I am a aspiring web developer at Life Choices. I am eager to apply my theoretical knowledge and passion for coding to kick start my professional career.",
         "With a solid foundation in JavaScript, Java & Python. I am equipped with the necessary skills to contribute to software development projects."
@@ -24,7 +22,6 @@
             "description": "I got my certificates on Software Development",
             "place": "Codetelligence Academy",
             "type": "certificate"
-      
         },
         {
             "id": 3,
@@ -32,7 +29,6 @@
             "description": "I got my certificates on Full stack web development",
             "place": "Codex",
             "type": "certificate"
-        
         },
         {
             "id": 4,
@@ -41,7 +37,6 @@
             "place": "Luhlaza High School",
             "type": "certificate"
         }
-       
     ],
     "skills": [
         {
@@ -70,7 +65,7 @@
             "name": "Mzwakhe",
             "surname": "Louw",
             "quotes": "Mzwamandoda Louw is a highly dedicated and inquisitive individual with an unwavering focus on achieving project goals. During our collaborative work on a company website project, he consistently exhibited a strong commitment to learning and problem-solving. Even when we encountered challenges that seemed insurmountable, he demonstrated a remarkable willingness to go the extra mile and thoroughly investigate areas that required further understanding until he successfully grasped the concepts..",
-            "profile": "https://i.postimg.cc/SRBL8qnC/rachel.jpg"
+            "profile": "https://lh3.google.com/u/0/d/1eARcqfGCwMJiDigE1mrCX99EyvYlGi06=w2000-h1748-iv1  "
         },
         {
             "name": "Damon",
@@ -91,7 +86,7 @@
             "profile": "https://lh3.googleusercontent.com/fife/AGXqzDlonOerWKJZILKxHN1rQJjToRPczQNRVNAiV221a_a_wALTqYMszXTrXQAxIMZCB3S9J1kHI4zqt5pqp-2wkI7ohFjjnbLvuQdDQc8qWmjbRRMCU1smcjNqewpU8WZhSy65--QQfhMC1VzXCoE4_LyqLCX-H4z2PLjSzx7uCL09EZMDMlPGmIxQt6UQW4d_ni1YIGHt4auScDVUfrWl5I21g8uQOjxH8TrwbINkUB8Ewv0eHs220YOT3gA6NeyUFSnrlkjqxfdjpivGXxM7y7gtkYFB0MF67fkEcNGI_RRuMEGy3T3J2Psr5IGXmWbeUm23S2NfnzgCDF3AAARoQOkrawbxERwR9FtuwyekHrQqrTbGwUP7RxXAmg-5U8OK-0HCjSBJy6qNDKGUsYAeM_Xx6ST05eEMl6JKKEefm11cMOvLsP1eTrhQc5FzMg8gTABES0qgVYQwJd869NHOhoZIE_3RBsNLckZ1vOpZmXqaDbJkrDWjZ0cFelabnX8qNwLuJ4ze2QKdo3QxnRFDG9uGfoJFWpsCKRzmfgmv-7W17m7PVleGxQ3u5lCML3OdaasqAV5vjoOohNwdPGe4qQA-Wwo1gNEFvV9RskJ2zUR5OzC1l1NOVn8BQL6MKCbAzHsRD1kxky1Fy4RQg3uVPzkEC5eOaleLMVz_Ciwg1qapO0Mxr7X-wDjRyrA0J3zFQdTGJk8XuLpVXZzziNcKpk9MH-cwUlDJhFi5sTNDHCh1PWfS2hhdPCXrJ1qMHoqWizzhdLlTF-ea7SpaR1ueXGW0oho3kUtL0Wlc-ktF2ojdxrgpE9PNg3icie1xNfgIbmk1RMt1dhUuQIf0btJtIQ4apmBBixPk1JPedFBIDm_8nNHagvTqy5NtmevJySBVoNMhI3WV9Xr1ioknD-QPx1tD4DqixpWHClySn2DtRxMCKHESAMHZWdwBVEK7wsZpCrytS3F3YVL9c8gw2hrL_4RK8ag2jTlqAdjPr3WyD7sZtA2uRxgyt7MIRr257i29SAIH-YkqqivcQI9YkLbR6sXGqLTUH8yTD5cdrHUgY6vtVj3B03srPkEzzcyyeOGm8XgFwfRCnEe4O_WCUIuL0bOG07dDV2BpDOc815gnMqwVPm9Xwmnj-10_GUUy-gtFTCaf4wHebUIFc9gCWitocw7QLyGX3v6AbvVNGnwgXwVACz-RWZjOfWJbvPusOCZbASjBez_niSChymho0BYMTfBK5eLbY_2LRwlAq4gDCPPIuF4wxTYLsDC02opiWT6UmOQuCmsnH4rc_KLa6aIOFw5EEoKxcOPy7ornitNtWbE_ko4puRD_0Obc1Hqn84nqMyPlyUSVpFZh9mldsGpkPtB3Q38hpv1mH0XP0ZCvpdDD6PImuqcy38NXa-xUrw0ECRMng7Dkxk7vIlPyJr3fdlcd2dgehE64jJ19BqvNNX3edmoiNJtrSQ1z-fpmB7Cjl6VJ_NPK3E2FrmbhGfMUiwzHld3kqhcT6gurPLTO8Z0Q4AXE2TrwRAIwMA=w948-h710-p-k-nu"
         }
     ],
-    "projects":[
+    "projects": [
         {
             "name": "Calculator",
             "description": "I built this calculator application using HTML 5, CSS and Javascript.",
@@ -113,7 +108,6 @@
             "gitHub": "https://github.com/Mzwa1080/ecommerce",
             "netlify": "https://louw-ecommerce-site.netlify.app/"
         },
-
         {
             "name": "Random People API",
             "description": "This is my introduction to API website that I build using HTML, CSS, BOOTSTRAP AND JAVASCRIPT.",
@@ -128,6 +122,5 @@
             "gitHub": "https://github.com/Mzwa1080/to-do-list",
             "netlify": "https://dom-todo-listt.netlify.app/"
         }
-        
     ]
 }
