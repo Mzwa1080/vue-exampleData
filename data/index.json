@@ -1,126 +1,126 @@
 {
-    "jobTitle": [
-        {
-            "title": "Aspiring Web developer"
-        }
-    ],
-    "about": [
-        "I am a aspiring web developer at Life Choices. I am eager to apply my theoretical knowledge and passion for coding to kick start my professional career.",
-        "With a solid foundation in JavaScript, Java & Python. I am equipped with the necessary skills to contribute to software development projects."
-    ],
-    "education": [
-        {
-            "id": 1,
-            "year": 2023,
-            "description": "I currently studying web development",
-            "place": "Life Choices",
-            "type": "certificate"
-        },
-        {
-            "id": 2,
-            "year": 2023,
-            "description": "I got my certificates on Software Development",
-            "place": "Codetelligence Academy",
-            "type": "certificate"
-        },
-        {
-            "id": 3,
-            "year": 2018,
-            "description": "I got my certificates on Full stack web development",
-            "place": "Codex",
-            "type": "certificate"
-        },
-        {
-            "id": 4,
-            "year": 2016,
-            "description": "I got my certificate on Higher Certificate",
-            "place": "Luhlaza High School",
-            "type": "certificate"
-        }
-    ],
-    "skills": [
-        {
-            "title": "GIT & GITHUB",
-            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
-        },
-        {
-            "title": "HTML",
-            "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
-        },
-        {
-            "title": "CSS",
-            "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
-        },
-        {
-            "title": "BOOTSTRAP",
-            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
-        },
-        {
-            "title": "VUEJS",
-            "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
-        }
-    ],
-    "testimonials": [
-        {
-            "name": "Mzwakhe",
-            "surname": "Louw",
-            "quotes": "Mzwamandoda Louw is a highly dedicated and inquisitive individual with an unwavering focus on achieving project goals. During our collaborative work on a company website project, he consistently exhibited a strong commitment to learning and problem-solving. Even when we encountered challenges that seemed insurmountable, he demonstrated a remarkable willingness to go the extra mile and thoroughly investigate areas that required further understanding until he successfully grasped the concepts..",
-            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDlkLVxIsaKWZMEPu5dr2qvM4m3aAER7J00Guranzk62GA9LUM81Au_IjEKJu1mDtn46wHkgNHdhcApOXXiKhvKggdzurJhBrRSkiJkY8CQvv_n7BqCc2i6LcKK2ahol-tEGdpc47RLiysjqN6rF9Td0NmyAbuIHFTtQhDleqmuHprKQAH_D_I7TR6-ByqRaI4ZIQer4zM2Q4gdxTH_nZ2F6WPX_WrFS_mmspxe7FhYNeQln1giNY2vNyW6v13LAF66z2MyLodm9fHfgVvClFh7UtNgU8COuhnycSZwICn0UV6h1502M9cdtgD7YHQ6JSezZjIXJEKWDAboesz9dK3BhfOZb40jCHXnBWLSI3cH3UcVOX-TxtL8owsI4ppCkK-rLyx3WcrDtHJ15RK5PN_Jj1VZ_3K_-grK_pwzQ0AFaiWynpDlOReXlKcfiR7QOpoYq-3GG8bJbwtVaTsKYwhVrKQ8WfbRz5RJ7TixzxYlHq3NorU1ORiDhZWliRou1JNM3jOAilqU5DK-D-82IPt361I4qSFgU1uFNGfbT5i02CGfzKIt2wOUSywxeKg232Gl_mLdqWbYKqCztJSUgLpOgZbLoZAeKxn_TbPgzUQlbs6-mhh5rGkuZKd8DuFD_DZ_LoEZXUyKXoeLAaMsdZSqFne37EgKMq_sw9xv7H6L3pHuaz_FNrFznEYoL4ihfnPetG_KFPrA9J7Tf2yEhTKXmBEyi2zpcjSQPbG3oIp23ZV92bGW4plWEjJG_wXXHFqtLCNwEm_i1T832FGYP38CPrjPKbu7qunORcbPe75X-VmPC0_PMiZr0Tc4hx24ovzF-778FzOh8Jm3lUwfhWgyjnM1ud8XHR67puFsd4da0cvvJruEJH59WLLOo92v-B6A0sLh0bmZhCy7W8tdk8WX8j7DbfI7aB2Dsx2Tu1WI4EUavuFF3I6UmAd2pIMiBIYo2FEJOGd6ZIrjDyyL48raxAfv3F3RZnNm5DU0md62lwpz5-2IupwzHK0GDWdK5vulMA1GRAYCsjaL_gGxfrjn3f8J1WEjhNhaTFbPPR_zOkG-fKj6fpXdiW7IoIyvJ2ZP_NSiu0ch0F5uDtmEmAjd7Jmf6od8K6RcsSRptBD7Df7ayb3KAuu9beOfQqXexEv9gIjaWA8w5K9luVs2LHdTd2xwQcQxcizv3nYIsmx80xw8I-KjZ-57Ioz64x1Kh4u6x2sressQGcHyaN3MQR9BKfssfi_mfoY5a2pIlb5N7G5qPeiKSMcqHqAe4GchXfBRuiHir31HYCmExhjd5UKhXrxl6_vVoMlJTzwLLnZIZ9XC-_la8H_innKYfBHWbOpuI4aX9wbvS57p8okdRb3bkrr56zeACKxmoCG_iItK41KO89HZZLAhHX9cnATVqufd8FJPrLhw7zaSd1-jsSKlup6eWYEfSEhXp6M45npgEE3U4Fd6Ir3fjOXINe7vBwefuOSc_0sCmMNDzM6VHxMorEGGFGuSd6sIxBoQmtIM5LxEtN9SH71UTUA=w948-h710-p-k-nu"
-        },
-        {
-            "name": "Damon",
-            "surname": "Ruffels",
-            "quotes": "Mzwamadoda is a hard-working, driven individual who dedicates himself to tasks wholly. He is a well-mannered, honest man with a big heart, strong determination to better himself and is an absolute joy to work with.",
-            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDmBx8BMvkGTc-l3F37iHuU6GML7P8st5kGfGT_3VkAiV_3oeQVtJDz4_5DeYN-N00xsAar_e8yGbZVOaU2wYv4OY-FiXciJ1Qk4EkeT2fLgRnR9YEsxheGVV9H2BMwPKjyU15B9EKonClQgfomCtWZaDTbL86T69dzbT3MRWz8LlE6ArZ0uCn7gks9SDpgnSPyf3l6vFtdeO6RWp16J3QV1S1cc-9myGO-w6xlWwsEFsMWwUURIao08YyklaeIi_4g0_omdDvV1aWMPTj0lgqHSj2KCxT0C4FxLWmhkrSumiTkqWmr0Gjrthx4HKoPRevxsJrJRkYddLURTvbrz5bc2w8q539fPNARgyuKkIKzzQkiTu28iwfUknl5ajVeYU_r9kCMZROdmDfw70A6IU4ccCMKJx32OcjDVp3FwJK-SCj0HY8-pBq4bts5CAcUP2u6x9ixDrrXHb0GYBZm2DqCqCNjoc-erz0zaWP9YOyFJ1BsnBbGo4Vb0bTeVqDgxfMgJNRZX-N5byR7X0MoN9dUZ9WHYNwQVhNHOC_YdAOdwCxxcjwndaOKeAde3erH1weW-Hy3droWY8bn07qL3FDRmGDiVaVWZBlM7tnpXYZhEBeDi5d2tioN1Nr9yqayRbLfY-xLG9WWJEXcfeyET6yuzhbESvV9w9srOCYXG6fGt_WZyr-9qpbmQlnpjfRodVLVnYwOPbKYsMNb_wv4B9JbQuHr_-Kuzdjh0sO6Lna7drIAdiwNVIuk6pHW31_VVKLXLoIXpAUn_d2WInoofS91xPakqNikmGxMRmIyjhGLB6VSRh8NZRPVFC7n7GmGYftvXFdnyugHyAAJsEwlMjvcawIL92k_9ToyfgEl05slwCnK2WRGur_mcuoxo8bp9b0QMUNZJPeH_MKTOMUtJO90foamq3RMycxehFOByjThf2jDeRdZrPD2gQ6_aMp92Cff2Ze_5N4OipRrXUTy24-ZKqEz3xtFieXyL9hNb44nbpQDiK69--pnFnrzhXZPLx4ebrBd7iA-exq3AjX90GMqJ7QXm5W4yVZzB80Pi1jc8GRNG_QInPrcfG298xZzh_LzgcdBsJ7pvW66xEoeE6JjpGyyQ013D-oEDk3iLus4NRCv5K9C9h_mXvoicKzOzkAq8V9jl6aJ1X3UAXSb_plG9EMliz1uJxN4d5SyWQllRya5qCXBoKTXlTRvwNX3zhF5xqecGj_O80eSySYxOsRXX05tYVJfHyfrf8rvNQihxYOtpQ58JBPKqfxNM6cR108qeaGD3vwqIE0aFMP2XsRpfPZnZFC1xXKS99UZB-NT2JImfh5ow90PQI8kHrIe6xhR1WKTTw9LlaZL9MVDyQPhayiKnOT97guLOZomJdUIvraI-2wiXO5w9jTwLXyrys0M2ZEiIkHuUh-pIJqD9BTsTWmNGbIio319VKsTU-8LO-WCYWdQ_XoC4aca2yb2CZalai-603cKjWdKXGptRQsFJoxKeb-oTAtRYgyf8DZfYeYravxym3aRndA=w2880-h2518"
-        },
-        {
-            "name": "Anathi",
-            "surname": "Josefu",
-            "quotes": "Mzwamadoda Shawn Louw is a happy and thriving classmates who loves studying.He is a well-rounded classmate who is doing well in all areas. He is very responsible,passionate,dedicated and enthusiastic in his school work. He knows how to communicate with his peers, kind, humble and he is always willing to assist his classmates when they ask for help..",
-            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDkzSYavPrCHgw7ovorlnjHmU8JXmhY_2HKSqsR2MxJSI2uqZkaTODNvhkQm39SktmO2TasF9jo_jFWKfrsDd5T7RwdaN-lIKEoara_cEBV1aMHLf1fM9AF2nXKAAkwDRV6fkzIIQxiRt3_PKbJaPIeUM7ukVgz2rq4kVXX6YBnklbzZpuLMTQKq5AW9A6PLXoBdtYqiiUoOksynS3wPtTb7tK8WLWWO8PYi2reB-mZa4ngIe6GMZQ28BEXKc7BJf07A_6ax4czFS7u55DO1VnrSjWA_bSzxDdZrFpj1LANnbuHwuBh4uSZnnL05N_fzUfcCa80IDaX_8Llqg_dYFs-cnkYKarCBAgW34e1pOHTBI9_BuL4nCN0MxGEe9cwkBNID7hq5V3QHaZ33E9iMfZY0pDlcz-lmgdhkyDgaxQAGTabpfbiHGvJG2LyB2yEsLQjwV9W33BHOpSSne7oxcWcxtUy4HP6AzrqgYXLE12_YwrXXzMBOwCPLd0UwvSJ_RddfOgbR2mBd3uLruSLeupe12i25zmhizOxPLw0irvV00E8c5I0DcDxcnJ-qOtOVGtqt68kj3YumWqjmocvsg4JFH1wBI3FjICatUa3QtOT5TiXfbupzxUW2BvrFzJxfLPtMx7qizGv3H-XPMDVXT3JFd85KXJirPEGDYSSSTS7E0GnC3ipRlZcUeimdnV5YTREpHuMdlvhd1IFGN1qpCsdZaqFXrqe_HsuzebsY-0lnTxRuWx0G34Z4-ecRE0fBuPQES5smglpil5E4rziMjdy65INhspw2e9NFh9lkjW5L3H1gTSCKzyrRPQYUhjKzM9wMJ-HTo73clOOtCPdWxUKHFlyFLtRG69UZgQK3qjX8Lt8KgndHhtl6xkb19WH0avPlM8-WiYUsdNcO8jMQAOVEoBzfN1yKXclFA4USPRw1wH51w_wah12JCS23zb07tnpk3PKitkcfQvSMtlOzshxFk2jqqXeXXWiN8Ty2yd0qR-9yl5BKsYBYCUHZgWbvSwAiTOXroUHSLMxnEe5-PzcBAmFgVzi9MP7J84MuFWY8x66rc8UOC8DCay7U-4_Milzx0sfYb7WhhIVKf5i0B5NDDoRbmrzsf_mpNRuxdUS3fnsD3qbqfCyYwR-xNM1-4E5Rkwxh_GE-ZcWh7DEef4qifAxVfUEkZ0C5yzcIKEXSIIyKkzMEz3qDSO0BxHkMTutXOHBAXB37z_MhkvV_KTpBQo5UJJ31pRIAVEUu-cnSiPVGctyKXzPyuu4slv10J68240mwANYtmeU-J-aXsnvEMF63hK8KZLDwzo80Xy0wMmIVe7CLtCx0-6e_a2n-o1rBQkkZRXsXfrargjk4cVdmsPFaGC53mAF1zqJJqaKzDWz9x8r56dgrYt5INCjF0kAqNhQMPzBuniY5NSvxT5d8aU9w5m_Tf1vJlFuJCM5nkIyCESDIiwnpgMaY4nuBNJC6TYANnPp9wGS5UMiQ0XG09E3ZOtwiOkb99oWVADHGZo9aMaS4de4gYw=w948-h710-p-k-nu"
-        },
-        {
-            "name": "Taryn-lee",
-            "surname": "Walbrugh",
-            "quotes": "Mzwamadoda is truly an amazing person who is always willing to help those around him ,he is both compassionate and kind .Mzwamadoda's work ethic and professionalism are impeccable and admirable.he is truly an inspiration to other around him..",
-            "profile": "https://lh3.googleusercontent.com/fife/AGXqzDlonOerWKJZILKxHN1rQJjToRPczQNRVNAiV221a_a_wALTqYMszXTrXQAxIMZCB3S9J1kHI4zqt5pqp-2wkI7ohFjjnbLvuQdDQc8qWmjbRRMCU1smcjNqewpU8WZhSy65--QQfhMC1VzXCoE4_LyqLCX-H4z2PLjSzx7uCL09EZMDMlPGmIxQt6UQW4d_ni1YIGHt4auScDVUfrWl5I21g8uQOjxH8TrwbINkUB8Ewv0eHs220YOT3gA6NeyUFSnrlkjqxfdjpivGXxM7y7gtkYFB0MF67fkEcNGI_RRuMEGy3T3J2Psr5IGXmWbeUm23S2NfnzgCDF3AAARoQOkrawbxERwR9FtuwyekHrQqrTbGwUP7RxXAmg-5U8OK-0HCjSBJy6qNDKGUsYAeM_Xx6ST05eEMl6JKKEefm11cMOvLsP1eTrhQc5FzMg8gTABES0qgVYQwJd869NHOhoZIE_3RBsNLckZ1vOpZmXqaDbJkrDWjZ0cFelabnX8qNwLuJ4ze2QKdo3QxnRFDG9uGfoJFWpsCKRzmfgmv-7W17m7PVleGxQ3u5lCML3OdaasqAV5vjoOohNwdPGe4qQA-Wwo1gNEFvV9RskJ2zUR5OzC1l1NOVn8BQL6MKCbAzHsRD1kxky1Fy4RQg3uVPzkEC5eOaleLMVz_Ciwg1qapO0Mxr7X-wDjRyrA0J3zFQdTGJk8XuLpVXZzziNcKpk9MH-cwUlDJhFi5sTNDHCh1PWfS2hhdPCXrJ1qMHoqWizzhdLlTF-ea7SpaR1ueXGW0oho3kUtL0Wlc-ktF2ojdxrgpE9PNg3icie1xNfgIbmk1RMt1dhUuQIf0btJtIQ4apmBBixPk1JPedFBIDm_8nNHagvTqy5NtmevJySBVoNMhI3WV9Xr1ioknD-QPx1tD4DqixpWHClySn2DtRxMCKHESAMHZWdwBVEK7wsZpCrytS3F3YVL9c8gw2hrL_4RK8ag2jTlqAdjPr3WyD7sZtA2uRxgyt7MIRr257i29SAIH-YkqqivcQI9YkLbR6sXGqLTUH8yTD5cdrHUgY6vtVj3B03srPkEzzcyyeOGm8XgFwfRCnEe4O_WCUIuL0bOG07dDV2BpDOc815gnMqwVPm9Xwmnj-10_GUUy-gtFTCaf4wHebUIFc9gCWitocw7QLyGX3v6AbvVNGnwgXwVACz-RWZjOfWJbvPusOCZbASjBez_niSChymho0BYMTfBK5eLbY_2LRwlAq4gDCPPIuF4wxTYLsDC02opiWT6UmOQuCmsnH4rc_KLa6aIOFw5EEoKxcOPy7ornitNtWbE_ko4puRD_0Obc1Hqn84nqMyPlyUSVpFZh9mldsGpkPtB3Q38hpv1mH0XP0ZCvpdDD6PImuqcy38NXa-xUrw0ECRMng7Dkxk7vIlPyJr3fdlcd2dgehE64jJ19BqvNNX3edmoiNJtrSQ1z-fpmB7Cjl6VJ_NPK3E2FrmbhGfMUiwzHld3kqhcT6gurPLTO8Z0Q4AXE2TrwRAIwMA=w948-h710-p-k-nu"
-        }
-    ],
-    "projects": [
-        {
-            "name": "Calculator",
-            "description": "I built this calculator application using HTML 5, CSS and Javascript.",
-            "image": "https://lh3.googleusercontent.com/fife/AGXqzDkAYfDXEDxFIDFndY7wrTnM-AwnD5o62e1YCLhyAfopE5j67em4u33NV_wtluY8Pp7mwdljtKjLa8D0PyR28L_2DLD3v4o7U8PZekdQW-gbmsCQUOgkIh2oqtBTz64c25z7uznRFKPiA3kVQ-sdN8ymo_-CBrvNc3Evdi31VGfLRc-BcMlwpEkUNxUonNdF08g2_i80lu4YDFPONOKj1o8-uGkj1PcIoSxWb6HcOPZol0QP9GBQ1D_4Y2cVHoY61_btAuXuA-oylnXg-DG3j92BD9Gh9uVVhqnWxkKe8jkVggWHSpqqGfDClW-4AqUu86KHz5UtDaOYgvrO7l5iSjTIKh6yG8ntTPGXGg4H5BxjgiiNjOxFcICSt8s3i41jI4z3WHsHOooNdBvfiB3UFxPbCc0imTloHdKqa8w2Ui8GNCFH9i1p2nzsD4eqQPkXjE7vjsJHe6TW2InmucH2EV0TCcQJtup9NjPGgwBVoAabLw5Wnh6W16iOcXkWp5ifU6B0EQLKHr8_EfibaNRMap95Je2iPQhrXT2wtF7iXqvqOaB831XwuPzr6q64MZYXcOLDBIxR6BtP598Ur4KGnGg1hqEWA47Afu8rvv7ulDSRIhREu3yOTeM88BS_y_5Y1FWpDqNa4KpnC6RnHnL1EKVrMgTV7ywEwU0v0vnECGWzLn3RMKuIyLUzomKQRim3Xo2F3gWi1xY7zc11VOwX548OOk9ty_VY7a2-dbynDSd9-lc97rT0sZcfFpMSzYy_FigBHVvr5C0LUZBHh2AP1TsUlbprU68_Kl2Cf_wCUYzNu_yE4PUDcsWJyyLXIqtH6oRdvpr6WBAeeAjQo2GfValgr0yKjiLH2EuTDHXYrxuaJ_Y-ANqrbyHIX8cSa5Kw4HXGxsKPO3uFXR4_ytW1rtO_RAYs4mEY3YLovBt0yiu0_KB3Mk2RU_-dp-gx2AQe7ODmAAI76tPMdb-yPkrGNtYxrForgoQsgP2ZSt1r24CcUGozkV7vmkq3ZeUcI7T_iqgKi4vuTsdcPR-NLU_JYBjde9UDEII5SUyvGGDG0F344pUhdvrlj9jvsYsilj2q44ZgskEJ0OJv3cvn4vQnK0icxSNE1NkgIM3UA4eGp11Zqx68UrhBC21RG0k1O7bCKlj6zW35SKxlCfUNOMByLI4nfUrxmm727tadmM1FF_8aWDmy18on_QMe4aLaP-a_T6qAzvMRZHcICMXwwb7FCs23Eq33Ydfn5ArXR_GA4INR8YgbRiB_0tNGjC9rF1BViqOPNicmnMK-udplUidnSNT8KXHZ8LBhWhNRFE-jIZLHeZF7_PY1xHv_6YeU6aRzoaRMuBW43en53IT-zAogrwozgKeUZs_X8A9n64A-iylMh7t8_nKm0E0cnHA2Ji-GmNjpd3HFKoxlYd-ETjvEswOHQuGNICLoVG4qcFdeR94nNO7wfXnsX9IhCiWBnC7ZiqASFL5xOJ_vIv2-05NZzhmXyeqFAst7UwGHxD7HovfflK6Z5992mVHx2Q=w948-h710-p-k-nu",
-            "gitHub": "https://github.com/Mzwa1080/Calculator",
-            "netlify": "https://louw-calculator.netlify.app/"
-        },
-        {
-            "name": "Temperature Converter(F-C)",
-            "description": "This is my Temperature Converter app, and I built it using HTML 5, CSS 3, bootstrap and Javascript.",
-            "image": "https://lh3.googleusercontent.com/fife/AGXqzDlV1xSJPuUPGhqthB37ZnIgnZDH9VqsK_99H1TkQRvo9emxuKWAsiGy3K2Lmsv5Y0fFzFQrufXT2SFVkPsRctakEY65neEhT8L3k7JiOnL0wURJym8pppHoBvqp8sDmxlWwbGG-r1HsWul7GZiKKU6gr0Uk2x_n2FVUX4Fbw5RaPAcxmIXgwWz-oiRVbM9u_8B6HgKDs1uk-32XPXct3IgfCRDJ_y_en2U-dKtXq7DgXMOOFop7Th8duWAZBHXQkVHI2PRRrnu-YBlN6a0esalSaD-ZveDLg_4CFlIXpTBCmsd2RsDA2xPcAqgAyEHNNoscSCkHmyqAJuzm9ASz93Z6uXL1MgkARRMrJnAfekQ2V74lR25wCg1RoaKIFXViCfK02UerJAtaUaZ1nNYaex5FzWxFe_tJ05xhoV9tYWq3WIYU6zJzuG_2AJoXg25ImtgI3iIwV7PVrSZi2NQOda5Ch4GM4AsR74UKzn85iJZnvp0v9w9n6uflWAtl6bn2sQJnNeLv_37z6x_ohzz8JIb1TrvF_5p6oaD4F8wWDFWoKVCpsV8Wkbd3ANzSz-2mOse7V-0WLqbPnRuLyPvfnDm4UgPhlbezIe75_it1kTQP27AAYVA-RB3ELib5e999yqFQmcwtibP2U42gWg8KKwwWqnJm8DvclbwcabFHzxPa2SlkUi6WrKp3k4I0h8odqr-2veKyy-y3uwFwEcsRCBpHbGho3TGjVMtGHVQVxJgm87O4gHCTU5mSXpW4SOJYdBF-Z1ZRQxoMCSnODpeYPYINv6n4nlenS4bqLGY_BG0eJ5YOVxt8g68IKfpl7y-0jQW1NM974syO6XK2rgW9h1oLu3Yfk952zwAGbTEShTunqT7mP4WVbT7TdKOgSgyjB8httjWGMuuLhgLK1cRlf6S0aJzxZuKAPJF6OaLoqZtFa_sJ3L9j_RR5eGcFf4aaoB9vk_g969jAOABRB72QOuHJBlg7qRiXPMgpuA_MVR17BFr0RWixadX18DdgAz0bUZLpyfRnDr7SLA6dVrqLVypUGbXiPrFEbfF5pzoZZgOVCS2cFqwLT9xUDDvEUjaCMhRq5kWnuAWh1EFvPLyKRWct6JZKEdZ7LurQ8-f9eGFkBhq6dHw4LI2dr9vEN0Ym9eVIV_CcSjcLyiMxoORGsXXo-BXTF8jd4QbJpRDLUZS8XjOoa5wVFvTQxXU8sL6gZFuyZLBvvJgycqd25z4CITGHOmFjyxlECZuJ_Ujy79Y6toYPoif0mCFvwLVIu4J3dVP1V4v_PqK6hjeLa1QmzRfZDgWwdnK-MBVSgnakxQ04NlPns9E1QngIAxbiQtN8V-n8hAkxhy_qwXSH-NoyXn3BSFtHUPuOp-OAy7y7ix0OqOIlTf_-CRmgzt5gBEk1xZ1tjZ_zIGX5mJOeKWzMqp04hvSimVShSnM8mSW5l3S1hdFQ_99Vq17Q4sjqDlSKoArvmyC2e2AjFTGD3zSls6q00yQSeWrRwfJKBAMY61XBmkxtrerpkJjT0g=w672-h504-p-k-nu",
-            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
-            "netlify": "https://regexpcalculator.netlify.app/"
-        },
-        {
-            "name": "e-commerce",
-            "description": "This is ecommerce website I designed and coded using HTML, CSS, BOOTSTRAP AND JAVASCRIPT(DOM).",
-            "image": "https://lh3.googleusercontent.com/fife/AGXqzDmvwcKmF-2_kstrHHOVApG4PCyTIm7Ch6bxOaulzJrZmXsnujiGAiLHSVW6BHnjCfcAKAbzxqaLqFreJZ24mEguqUBqn8mLBFakUl0GKb7Pqn4K5lxqc-Ad-cgVu2fIdoLibL0frt02uym0ECLcAqSeIPNSIU4L8oR7TSSmNDhGxpSaYGIXBGT-ngznpX6ZS4fYvsks1Y-Mx4m8jsG8PLChycSF3B3iI4S1V8Mta4B5EBXMLweLNrvjXh1ssFVoz3zAogvwiAggCa32FteqUHXgMCe_zCoVpiR6kjYmQi1i3fAgFl_i4B0HpisSykCg3C2GD9ftleND9IGmy_nkyLMp02GYxgZpexGc-8g1M6rEXpxGGEmp3QrJnZ3fVQbLIaR1PEnLG0WkYXFqF7gCAVYOMdv51DLu8UHvWbrT3LNvXI_bufBbl7iAlTey6grofbzMUMJvAYxHOOi501UbmpCNm-tlym3yoRtGfueJxhfqUSQlAq4wIufw8teKPdpO1t5ev7N7lG3K7mkIL1ENIZ4UMTDElsiK2GKVMFyxnllX93kNcl3eQ9xcS9-k1yz76w4FPdIUgwaIDo3FMUS2qw6xySEalfJVMZglXlgQ_HBk6nQrqRoZXmBK04vfL73zOgTTb63zCMRA_BjgHFB5dRk0YCxBRzvzTE2yJkNdfgu43cXyG4P1kq2L2yMMuaZbCVIAQ5PcYIijONGWIVTku3La9czL0YYBe6yrG1ZSYgacP7Xr_fkP8h1uFGjNDrg6OWfnpoScNN5AW69By2wA76qqwKAJkxRMUJ50c5Y4DLZ_-osEu4IckGf-0vVvvNwktKPhxB6CcSqtpT3584rDCcssWqxED3tY4e0EEBkCfnuSLQNUP2LgFta-XGFEXB5kZNb4yLZZP6DNYqmps4aFQhuHSwVA3L5qKVsztUYdR7ZJWuBOV4DLhQqM6FAbTUQba68J8AthB1vn9rRker1FlEkWgdLH1IC5rVgCZnLcVVVkPHMsA8KqOrBCSM6khcqC3PIkyhZjykJUeRguX7IU0xD2yk5SIqVsy5874QHcWtPrRduHVAvs0LtbNlXwM3HZLa61kvPLCvCZkOgMCC9NifnecGHL_q7h3TuBWwNszXncCA6yUFEc0QwxJzMZTnf8wJQnaNWtJzsMq_ISJhO45Bh7hzN_HXajBXpM6-aeOAGpQT6wooxkHprcFZqyThnznKzVw2wHAdUn9LZLRyXc7BpeaOTCaAgkHycfpTSjrKu84XLdYnTvfVbNYnG5GJHtFpKmdTlN0h2K0wH798F8ZriEUFpwleZm0iIjSsdsyYutIXDWaZ6hS_c9vq4Kyf5rAITVPpNorUiSwWnpj034mhNWgFdV5BpeqU9J7Tlyg-WHoi_Lv-HeVCx_Skeddn6qPNQXUgg9azerOZCZs6bkK7NbFQZHZkw2j-go4Y8suLnFBSYV2hy4XIG1LV4lta1Uvx3tRk8ObGk9vrIeqdAF_alDFmdUwe7_8v4C_41hBZT7PLfOXUABTbGs0g=w948-h710-p-k-nu",
-            "gitHub": "https://github.com/Mzwa1080/ecommerce",
-            "netlify": "https://louw-ecommerce-site.netlify.app/"
-        },
-        {
-            "name": "Random People API",
-            "description": "This is my introduction to API website that I build using HTML, CSS, BOOTSTRAP AND JAVASCRIPT.",
-            "image": "https://lh3.google.com/u/0/d/1Vv_SMRTddoZ_WvWJhy2e-Vy4NaDIvYR-=w2000-h1748-iv1",
-            "gitHub": "https://github.com/Mzwa1080/20Random",
-            "netlify": "https://shawn-20-random.netlify.app/"
-        },
-        {
-            "name": "to-do List",
-            "description": "I build this to-do list application using html, css and javascript",
-            "image": "https://lh3.googleusercontent.com/fife/AGXqzDmj4rnMgUb8iVhrOweA1754nBTg-N6pnnCOHcVjTPKd7Y-25rwKxdf5_kybzh6OQxCwI8heOKNfw3iTZcTof42AksVtqHTPMdxgG0M4idr7OHd-jwEXZKcM-ZdmMFWztEjoIFWndBW4U7jqDMIrYtXXGqTxvDvmvJHRdsWrVcClyAdcrkIwXIAwH07AyggYdSpoQ2YyqcdWp5845i8VSTHfghvPlhBhoYNnpSRx1NUlvIzW3wVQBCnV0JXnLeKE8GLkK-Hx_0wyxUHS-61YZ8sr2_ddIg4W7g1Hh6ERvwM-cU1XmrJn8r6Sq3IDv6LasCGK_i5u985_Bo_vbpSj14jpLj4Moha0ML6exP2l3W9so0YDkPnDewVK2rT3Fo4ceHUkoxIwaT9z4LrOjQmZYGMw65DoyKV4TsrY5BZiAAItj_RHgirQ-wPHo5d1e8gqVyb71pxJ8gaGttw90HgcvoBL9RMcOk0CDwk2GFEPGC8Msv9DNGVZiPPHAKzqkDkp1OXDrlXmbrUxzXoTO_kb4ijWL89N3C6KPlPfqmn9g_cSia5rcEwN9_WPb5Gi39BOc8wDHaDr2t3g9h6XFquh5DREZzfPN9pdQl9GU7VQchJTTRB60Kx1Wzof6zg55C9j6CwaZ4W1hWvEgQu4zeu9dQlWgjNT3WUHoFrMGQBTuAgi9fulGWTfadxasq2KQvVhitlm5AO8LpIeGeYueN5DnLRpQpo6273oXJQ6vtvsW_B5wyg3qEKn03s5j66swc4-WQgIibmTQDHTrvWjAppe0fBNNoyaIksxxkfmVSEDV7Kc9iUWzAneW1xMeKRP0x8mRjsmWSWGcpuYmMsRYYr_3RCdR1HlR6T8Xt3kkb24boHbJ0JOVFKjOwT_ZF69JqzcC61BBwlNaIjaJfBdRHs6M6OXcpJ83Tz8mZ0nWdYdvRoQ_qTeUCYgx6eHB8uRkNiISXYPirUt9ojBliURo8at0Y028Mrujac6ddNcj5ttfycW6Was5oEg-KBI7ByfUbxtP6naYzeaNRAuGVDSyQoDcn_qG0XNmyVAkTKreG5x8z10ov-9ALMedxttKZ1Nw0097GmZ_oY1ui9hDESCChUUstGpumxbVe33crkPrTzcs3i7NszcfEY3srSLsH-PpcdL6XxYLywl-syHixTFkSPyjfI4aAa5ztPj3LcJl9g-E1DztoYLjpzyp5Axpt5PAqr06pRkrKtrm45ZQOm1IRj1RksCgTuZVyKE75v0p4urGZ_sMM38k4UO4c4tgvFFkuwJiMP7VoQxzKICBmLi3ZGj5qRi2oESN9nL2efAPc3-9Z7TB9AiXaatpRD7WveNkTJH23OFjkMaZPSZ0TDfBEcpVMu7xREDbyIr7wxdtzbYtKD0CN5xdXbjabvFMtgpInSYQnEUnB1GJr2LimugD-8_aIykSLe45I7T2y9ufL1nj-sw5Dc6tnkN5UGdzwDvk9_k_c1ItJ1BNbNuf4oPlKfkiaEWFVQRBcX4cdHIhl48ZOpQZ75FrT3uUgbE2A=w2000-h1748",
-            "gitHub": "https://github.com/Mzwa1080/to-do-list",
-            "netlify": "https://dom-todo-listt.netlify.app/"
-        }
-    ]
+  "jobTitle": [
+    {
+      "title": "Aspiring Web developer"
+    }
+  ],
+  "about": [
+    "I am a aspiring web developer at Life Choices. I am eager to apply my theoretical knowledge and passion for coding to kick start my professional career.",
+    "With a solid foundation in JavaScript, Java & Python. I am equipped with the necessary skills to contribute to software development projects."
+  ],
+  "education": [
+    {
+      "id": 1,
+      "year": 2023,
+      "description": "I currently studying web development",
+      "place": "Life Choices",
+      "type": "certificate"
+    },
+    {
+      "id": 2,
+      "year": 2023,
+      "description": "I got my certificates on Software Development",
+      "place": "Codetelligence Academy",
+      "type": "certificate"
+    },
+    {
+      "id": 3,
+      "year": 2018,
+      "description": "I got my certificates on Full stack web development",
+      "place": "Codex",
+      "type": "certificate"
+    },
+    {
+      "id": 4,
+      "year": 2016,
+      "description": "I got my certificate on Higher Certificate",
+      "place": "Luhlaza High School",
+      "type": "certificate"
+    }
+  ],
+  "skills": [
+    {
+      "title": "GIT & GITHUB",
+      "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+    },
+    {
+      "title": "HTML",
+      "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+    },
+    {
+      "title": "CSS",
+      "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
+    },
+    {
+      "title": "BOOTSTRAP",
+      "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+    },
+    {
+      "title": "VUEJS",
+      "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Mzwakhe",
+      "surname": "Louw",
+      "quotes": "Mzwamandoda Louw is a highly dedicated and inquisitive individual with an unwavering focus on achieving project goals. During our collaborative work on a company website project, he consistently exhibited a strong commitment to learning and problem-solving. Even when we encountered challenges that seemed insurmountable, he demonstrated a remarkable willingness to go the extra mile and thoroughly investigate areas that required further understanding until he successfully grasped the concepts..",
+      "profile": "https://lh3.googleusercontent.com/fife/AGXqzDlkLVxIsaKWZMEPu5dr2qvM4m3aAER7J00Guranzk62GA9LUM81Au_IjEKJu1mDtn46wHkgNHdhcApOXXiKhvKggdzurJhBrRSkiJkY8CQvv_n7BqCc2i6LcKK2ahol-tEGdpc47RLiysjqN6rF9Td0NmyAbuIHFTtQhDleqmuHprKQAH_D_I7TR6-ByqRaI4ZIQer4zM2Q4gdxTH_nZ2F6WPX_WrFS_mmspxe7FhYNeQln1giNY2vNyW6v13LAF66z2MyLodm9fHfgVvClFh7UtNgU8COuhnycSZwICn0UV6h1502M9cdtgD7YHQ6JSezZjIXJEKWDAboesz9dK3BhfOZb40jCHXnBWLSI3cH3UcVOX-TxtL8owsI4ppCkK-rLyx3WcrDtHJ15RK5PN_Jj1VZ_3K_-grK_pwzQ0AFaiWynpDlOReXlKcfiR7QOpoYq-3GG8bJbwtVaTsKYwhVrKQ8WfbRz5RJ7TixzxYlHq3NorU1ORiDhZWliRou1JNM3jOAilqU5DK-D-82IPt361I4qSFgU1uFNGfbT5i02CGfzKIt2wOUSywxeKg232Gl_mLdqWbYKqCztJSUgLpOgZbLoZAeKxn_TbPgzUQlbs6-mhh5rGkuZKd8DuFD_DZ_LoEZXUyKXoeLAaMsdZSqFne37EgKMq_sw9xv7H6L3pHuaz_FNrFznEYoL4ihfnPetG_KFPrA9J7Tf2yEhTKXmBEyi2zpcjSQPbG3oIp23ZV92bGW4plWEjJG_wXXHFqtLCNwEm_i1T832FGYP38CPrjPKbu7qunORcbPe75X-VmPC0_PMiZr0Tc4hx24ovzF-778FzOh8Jm3lUwfhWgyjnM1ud8XHR67puFsd4da0cvvJruEJH59WLLOo92v-B6A0sLh0bmZhCy7W8tdk8WX8j7DbfI7aB2Dsx2Tu1WI4EUavuFF3I6UmAd2pIMiBIYo2FEJOGd6ZIrjDyyL48raxAfv3F3RZnNm5DU0md62lwpz5-2IupwzHK0GDWdK5vulMA1GRAYCsjaL_gGxfrjn3f8J1WEjhNhaTFbPPR_zOkG-fKj6fpXdiW7IoIyvJ2ZP_NSiu0ch0F5uDtmEmAjd7Jmf6od8K6RcsSRptBD7Df7ayb3KAuu9beOfQqXexEv9gIjaWA8w5K9luVs2LHdTd2xwQcQxcizv3nYIsmx80xw8I-KjZ-57Ioz64x1Kh4u6x2sressQGcHyaN3MQR9BKfssfi_mfoY5a2pIlb5N7G5qPeiKSMcqHqAe4GchXfBRuiHir31HYCmExhjd5UKhXrxl6_vVoMlJTzwLLnZIZ9XC-_la8H_innKYfBHWbOpuI4aX9wbvS57p8okdRb3bkrr56zeACKxmoCG_iItK41KO89HZZLAhHX9cnATVqufd8FJPrLhw7zaSd1-jsSKlup6eWYEfSEhXp6M45npgEE3U4Fd6Ir3fjOXINe7vBwefuOSc_0sCmMNDzM6VHxMorEGGFGuSd6sIxBoQmtIM5LxEtN9SH71UTUA=w948-h710-p-k-nu"
+    },
+    {
+      "name": "Damon",
+      "surname": "Ruffels",
+      "quotes": "Mzwamadoda is a hard-working, driven individual who dedicates himself to tasks wholly. He is a well-mannered, honest man with a big heart, strong determination to better himself and is an absolute joy to work with.",
+      "profile": "https://lh3.googleusercontent.com/fife/AGXqzDmBx8BMvkGTc-l3F37iHuU6GML7P8st5kGfGT_3VkAiV_3oeQVtJDz4_5DeYN-N00xsAar_e8yGbZVOaU2wYv4OY-FiXciJ1Qk4EkeT2fLgRnR9YEsxheGVV9H2BMwPKjyU15B9EKonClQgfomCtWZaDTbL86T69dzbT3MRWz8LlE6ArZ0uCn7gks9SDpgnSPyf3l6vFtdeO6RWp16J3QV1S1cc-9myGO-w6xlWwsEFsMWwUURIao08YyklaeIi_4g0_omdDvV1aWMPTj0lgqHSj2KCxT0C4FxLWmhkrSumiTkqWmr0Gjrthx4HKoPRevxsJrJRkYddLURTvbrz5bc2w8q539fPNARgyuKkIKzzQkiTu28iwfUknl5ajVeYU_r9kCMZROdmDfw70A6IU4ccCMKJx32OcjDVp3FwJK-SCj0HY8-pBq4bts5CAcUP2u6x9ixDrrXHb0GYBZm2DqCqCNjoc-erz0zaWP9YOyFJ1BsnBbGo4Vb0bTeVqDgxfMgJNRZX-N5byR7X0MoN9dUZ9WHYNwQVhNHOC_YdAOdwCxxcjwndaOKeAde3erH1weW-Hy3droWY8bn07qL3FDRmGDiVaVWZBlM7tnpXYZhEBeDi5d2tioN1Nr9yqayRbLfY-xLG9WWJEXcfeyET6yuzhbESvV9w9srOCYXG6fGt_WZyr-9qpbmQlnpjfRodVLVnYwOPbKYsMNb_wv4B9JbQuHr_-Kuzdjh0sO6Lna7drIAdiwNVIuk6pHW31_VVKLXLoIXpAUn_d2WInoofS91xPakqNikmGxMRmIyjhGLB6VSRh8NZRPVFC7n7GmGYftvXFdnyugHyAAJsEwlMjvcawIL92k_9ToyfgEl05slwCnK2WRGur_mcuoxo8bp9b0QMUNZJPeH_MKTOMUtJO90foamq3RMycxehFOByjThf2jDeRdZrPD2gQ6_aMp92Cff2Ze_5N4OipRrXUTy24-ZKqEz3xtFieXyL9hNb44nbpQDiK69--pnFnrzhXZPLx4ebrBd7iA-exq3AjX90GMqJ7QXm5W4yVZzB80Pi1jc8GRNG_QInPrcfG298xZzh_LzgcdBsJ7pvW66xEoeE6JjpGyyQ013D-oEDk3iLus4NRCv5K9C9h_mXvoicKzOzkAq8V9jl6aJ1X3UAXSb_plG9EMliz1uJxN4d5SyWQllRya5qCXBoKTXlTRvwNX3zhF5xqecGj_O80eSySYxOsRXX05tYVJfHyfrf8rvNQihxYOtpQ58JBPKqfxNM6cR108qeaGD3vwqIE0aFMP2XsRpfPZnZFC1xXKS99UZB-NT2JImfh5ow90PQI8kHrIe6xhR1WKTTw9LlaZL9MVDyQPhayiKnOT97guLOZomJdUIvraI-2wiXO5w9jTwLXyrys0M2ZEiIkHuUh-pIJqD9BTsTWmNGbIio319VKsTU-8LO-WCYWdQ_XoC4aca2yb2CZalai-603cKjWdKXGptRQsFJoxKeb-oTAtRYgyf8DZfYeYravxym3aRndA=w2880-h2518"
+    },
+    {
+      "name": "Anathi",
+      "surname": "Josefu",
+      "quotes": "Mzwamadoda Shawn Louw is a happy and thriving classmates who loves studying.He is a well-rounded classmate who is doing well in all areas. He is very responsible,passionate,dedicated and enthusiastic in his school work. He knows how to communicate with his peers, kind, humble and he is always willing to assist his classmates when they ask for help..",
+      "profile": "https://lh3.googleusercontent.com/fife/AGXqzDkzSYavPrCHgw7ovorlnjHmU8JXmhY_2HKSqsR2MxJSI2uqZkaTODNvhkQm39SktmO2TasF9jo_jFWKfrsDd5T7RwdaN-lIKEoara_cEBV1aMHLf1fM9AF2nXKAAkwDRV6fkzIIQxiRt3_PKbJaPIeUM7ukVgz2rq4kVXX6YBnklbzZpuLMTQKq5AW9A6PLXoBdtYqiiUoOksynS3wPtTb7tK8WLWWO8PYi2reB-mZa4ngIe6GMZQ28BEXKc7BJf07A_6ax4czFS7u55DO1VnrSjWA_bSzxDdZrFpj1LANnbuHwuBh4uSZnnL05N_fzUfcCa80IDaX_8Llqg_dYFs-cnkYKarCBAgW34e1pOHTBI9_BuL4nCN0MxGEe9cwkBNID7hq5V3QHaZ33E9iMfZY0pDlcz-lmgdhkyDgaxQAGTabpfbiHGvJG2LyB2yEsLQjwV9W33BHOpSSne7oxcWcxtUy4HP6AzrqgYXLE12_YwrXXzMBOwCPLd0UwvSJ_RddfOgbR2mBd3uLruSLeupe12i25zmhizOxPLw0irvV00E8c5I0DcDxcnJ-qOtOVGtqt68kj3YumWqjmocvsg4JFH1wBI3FjICatUa3QtOT5TiXfbupzxUW2BvrFzJxfLPtMx7qizGv3H-XPMDVXT3JFd85KXJirPEGDYSSSTS7E0GnC3ipRlZcUeimdnV5YTREpHuMdlvhd1IFGN1qpCsdZaqFXrqe_HsuzebsY-0lnTxRuWx0G34Z4-ecRE0fBuPQES5smglpil5E4rziMjdy65INhspw2e9NFh9lkjW5L3H1gTSCKzyrRPQYUhjKzM9wMJ-HTo73clOOtCPdWxUKHFlyFLtRG69UZgQK3qjX8Lt8KgndHhtl6xkb19WH0avPlM8-WiYUsdNcO8jMQAOVEoBzfN1yKXclFA4USPRw1wH51w_wah12JCS23zb07tnpk3PKitkcfQvSMtlOzshxFk2jqqXeXXWiN8Ty2yd0qR-9yl5BKsYBYCUHZgWbvSwAiTOXroUHSLMxnEe5-PzcBAmFgVzi9MP7J84MuFWY8x66rc8UOC8DCay7U-4_Milzx0sfYb7WhhIVKf5i0B5NDDoRbmrzsf_mpNRuxdUS3fnsD3qbqfCyYwR-xNM1-4E5Rkwxh_GE-ZcWh7DEef4qifAxVfUEkZ0C5yzcIKEXSIIyKkzMEz3qDSO0BxHkMTutXOHBAXB37z_MhkvV_KTpBQo5UJJ31pRIAVEUu-cnSiPVGctyKXzPyuu4slv10J68240mwANYtmeU-J-aXsnvEMF63hK8KZLDwzo80Xy0wMmIVe7CLtCx0-6e_a2n-o1rBQkkZRXsXfrargjk4cVdmsPFaGC53mAF1zqJJqaKzDWz9x8r56dgrYt5INCjF0kAqNhQMPzBuniY5NSvxT5d8aU9w5m_Tf1vJlFuJCM5nkIyCESDIiwnpgMaY4nuBNJC6TYANnPp9wGS5UMiQ0XG09E3ZOtwiOkb99oWVADHGZo9aMaS4de4gYw=w948-h710-p-k-nu"
+    },
+    {
+      "name": "Taryn-lee",
+      "surname": "Walbrugh",
+      "quotes": "Mzwamadoda is truly an amazing person who is always willing to help those around him ,he is both compassionate and kind .Mzwamadoda's work ethic and professionalism are impeccable and admirable.he is truly an inspiration to other around him..",
+      "profile": "https://lh3.googleusercontent.com/fife/AGXqzDlonOerWKJZILKxHN1rQJjToRPczQNRVNAiV221a_a_wALTqYMszXTrXQAxIMZCB3S9J1kHI4zqt5pqp-2wkI7ohFjjnbLvuQdDQc8qWmjbRRMCU1smcjNqewpU8WZhSy65--QQfhMC1VzXCoE4_LyqLCX-H4z2PLjSzx7uCL09EZMDMlPGmIxQt6UQW4d_ni1YIGHt4auScDVUfrWl5I21g8uQOjxH8TrwbINkUB8Ewv0eHs220YOT3gA6NeyUFSnrlkjqxfdjpivGXxM7y7gtkYFB0MF67fkEcNGI_RRuMEGy3T3J2Psr5IGXmWbeUm23S2NfnzgCDF3AAARoQOkrawbxERwR9FtuwyekHrQqrTbGwUP7RxXAmg-5U8OK-0HCjSBJy6qNDKGUsYAeM_Xx6ST05eEMl6JKKEefm11cMOvLsP1eTrhQc5FzMg8gTABES0qgVYQwJd869NHOhoZIE_3RBsNLckZ1vOpZmXqaDbJkrDWjZ0cFelabnX8qNwLuJ4ze2QKdo3QxnRFDG9uGfoJFWpsCKRzmfgmv-7W17m7PVleGxQ3u5lCML3OdaasqAV5vjoOohNwdPGe4qQA-Wwo1gNEFvV9RskJ2zUR5OzC1l1NOVn8BQL6MKCbAzHsRD1kxky1Fy4RQg3uVPzkEC5eOaleLMVz_Ciwg1qapO0Mxr7X-wDjRyrA0J3zFQdTGJk8XuLpVXZzziNcKpk9MH-cwUlDJhFi5sTNDHCh1PWfS2hhdPCXrJ1qMHoqWizzhdLlTF-ea7SpaR1ueXGW0oho3kUtL0Wlc-ktF2ojdxrgpE9PNg3icie1xNfgIbmk1RMt1dhUuQIf0btJtIQ4apmBBixPk1JPedFBIDm_8nNHagvTqy5NtmevJySBVoNMhI3WV9Xr1ioknD-QPx1tD4DqixpWHClySn2DtRxMCKHESAMHZWdwBVEK7wsZpCrytS3F3YVL9c8gw2hrL_4RK8ag2jTlqAdjPr3WyD7sZtA2uRxgyt7MIRr257i29SAIH-YkqqivcQI9YkLbR6sXGqLTUH8yTD5cdrHUgY6vtVj3B03srPkEzzcyyeOGm8XgFwfRCnEe4O_WCUIuL0bOG07dDV2BpDOc815gnMqwVPm9Xwmnj-10_GUUy-gtFTCaf4wHebUIFc9gCWitocw7QLyGX3v6AbvVNGnwgXwVACz-RWZjOfWJbvPusOCZbASjBez_niSChymho0BYMTfBK5eLbY_2LRwlAq4gDCPPIuF4wxTYLsDC02opiWT6UmOQuCmsnH4rc_KLa6aIOFw5EEoKxcOPy7ornitNtWbE_ko4puRD_0Obc1Hqn84nqMyPlyUSVpFZh9mldsGpkPtB3Q38hpv1mH0XP0ZCvpdDD6PImuqcy38NXa-xUrw0ECRMng7Dkxk7vIlPyJr3fdlcd2dgehE64jJ19BqvNNX3edmoiNJtrSQ1z-fpmB7Cjl6VJ_NPK3E2FrmbhGfMUiwzHld3kqhcT6gurPLTO8Z0Q4AXE2TrwRAIwMA=w948-h710-p-k-nu"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Calculator",
+      "description": "I built this calculator application using HTML 5, CSS and Javascript.",
+      "image": "https://lh3.googleusercontent.com/fife/AGXqzDkAYfDXEDxFIDFndY7wrTnM-AwnD5o62e1YCLhyAfopE5j67em4u33NV_wtluY8Pp7mwdljtKjLa8D0PyR28L_2DLD3v4o7U8PZekdQW-gbmsCQUOgkIh2oqtBTz64c25z7uznRFKPiA3kVQ-sdN8ymo_-CBrvNc3Evdi31VGfLRc-BcMlwpEkUNxUonNdF08g2_i80lu4YDFPONOKj1o8-uGkj1PcIoSxWb6HcOPZol0QP9GBQ1D_4Y2cVHoY61_btAuXuA-oylnXg-DG3j92BD9Gh9uVVhqnWxkKe8jkVggWHSpqqGfDClW-4AqUu86KHz5UtDaOYgvrO7l5iSjTIKh6yG8ntTPGXGg4H5BxjgiiNjOxFcICSt8s3i41jI4z3WHsHOooNdBvfiB3UFxPbCc0imTloHdKqa8w2Ui8GNCFH9i1p2nzsD4eqQPkXjE7vjsJHe6TW2InmucH2EV0TCcQJtup9NjPGgwBVoAabLw5Wnh6W16iOcXkWp5ifU6B0EQLKHr8_EfibaNRMap95Je2iPQhrXT2wtF7iXqvqOaB831XwuPzr6q64MZYXcOLDBIxR6BtP598Ur4KGnGg1hqEWA47Afu8rvv7ulDSRIhREu3yOTeM88BS_y_5Y1FWpDqNa4KpnC6RnHnL1EKVrMgTV7ywEwU0v0vnECGWzLn3RMKuIyLUzomKQRim3Xo2F3gWi1xY7zc11VOwX548OOk9ty_VY7a2-dbynDSd9-lc97rT0sZcfFpMSzYy_FigBHVvr5C0LUZBHh2AP1TsUlbprU68_Kl2Cf_wCUYzNu_yE4PUDcsWJyyLXIqtH6oRdvpr6WBAeeAjQo2GfValgr0yKjiLH2EuTDHXYrxuaJ_Y-ANqrbyHIX8cSa5Kw4HXGxsKPO3uFXR4_ytW1rtO_RAYs4mEY3YLovBt0yiu0_KB3Mk2RU_-dp-gx2AQe7ODmAAI76tPMdb-yPkrGNtYxrForgoQsgP2ZSt1r24CcUGozkV7vmkq3ZeUcI7T_iqgKi4vuTsdcPR-NLU_JYBjde9UDEII5SUyvGGDG0F344pUhdvrlj9jvsYsilj2q44ZgskEJ0OJv3cvn4vQnK0icxSNE1NkgIM3UA4eGp11Zqx68UrhBC21RG0k1O7bCKlj6zW35SKxlCfUNOMByLI4nfUrxmm727tadmM1FF_8aWDmy18on_QMe4aLaP-a_T6qAzvMRZHcICMXwwb7FCs23Eq33Ydfn5ArXR_GA4INR8YgbRiB_0tNGjC9rF1BViqOPNicmnMK-udplUidnSNT8KXHZ8LBhWhNRFE-jIZLHeZF7_PY1xHv_6YeU6aRzoaRMuBW43en53IT-zAogrwozgKeUZs_X8A9n64A-iylMh7t8_nKm0E0cnHA2Ji-GmNjpd3HFKoxlYd-ETjvEswOHQuGNICLoVG4qcFdeR94nNO7wfXnsX9IhCiWBnC7ZiqASFL5xOJ_vIv2-05NZzhmXyeqFAst7UwGHxD7HovfflK6Z5992mVHx2Q=w948-h710-p-k-nu",
+      "gitHub": "https://github.com/Mzwa1080/Calculator",
+      "netlify": "https://louw-calculator.netlify.app/"
+    },
+    {
+      "name": "Temperature Converter(F-C)",
+      "description": "This is my Temperature Converter app, and I built it using HTML 5, CSS 3, bootstrap and Javascript.",
+      "image": "https://lh3.googleusercontent.com/fife/AGXqzDlV1xSJPuUPGhqthB37ZnIgnZDH9VqsK_99H1TkQRvo9emxuKWAsiGy3K2Lmsv5Y0fFzFQrufXT2SFVkPsRctakEY65neEhT8L3k7JiOnL0wURJym8pppHoBvqp8sDmxlWwbGG-r1HsWul7GZiKKU6gr0Uk2x_n2FVUX4Fbw5RaPAcxmIXgwWz-oiRVbM9u_8B6HgKDs1uk-32XPXct3IgfCRDJ_y_en2U-dKtXq7DgXMOOFop7Th8duWAZBHXQkVHI2PRRrnu-YBlN6a0esalSaD-ZveDLg_4CFlIXpTBCmsd2RsDA2xPcAqgAyEHNNoscSCkHmyqAJuzm9ASz93Z6uXL1MgkARRMrJnAfekQ2V74lR25wCg1RoaKIFXViCfK02UerJAtaUaZ1nNYaex5FzWxFe_tJ05xhoV9tYWq3WIYU6zJzuG_2AJoXg25ImtgI3iIwV7PVrSZi2NQOda5Ch4GM4AsR74UKzn85iJZnvp0v9w9n6uflWAtl6bn2sQJnNeLv_37z6x_ohzz8JIb1TrvF_5p6oaD4F8wWDFWoKVCpsV8Wkbd3ANzSz-2mOse7V-0WLqbPnRuLyPvfnDm4UgPhlbezIe75_it1kTQP27AAYVA-RB3ELib5e999yqFQmcwtibP2U42gWg8KKwwWqnJm8DvclbwcabFHzxPa2SlkUi6WrKp3k4I0h8odqr-2veKyy-y3uwFwEcsRCBpHbGho3TGjVMtGHVQVxJgm87O4gHCTU5mSXpW4SOJYdBF-Z1ZRQxoMCSnODpeYPYINv6n4nlenS4bqLGY_BG0eJ5YOVxt8g68IKfpl7y-0jQW1NM974syO6XK2rgW9h1oLu3Yfk952zwAGbTEShTunqT7mP4WVbT7TdKOgSgyjB8httjWGMuuLhgLK1cRlf6S0aJzxZuKAPJF6OaLoqZtFa_sJ3L9j_RR5eGcFf4aaoB9vk_g969jAOABRB72QOuHJBlg7qRiXPMgpuA_MVR17BFr0RWixadX18DdgAz0bUZLpyfRnDr7SLA6dVrqLVypUGbXiPrFEbfF5pzoZZgOVCS2cFqwLT9xUDDvEUjaCMhRq5kWnuAWh1EFvPLyKRWct6JZKEdZ7LurQ8-f9eGFkBhq6dHw4LI2dr9vEN0Ym9eVIV_CcSjcLyiMxoORGsXXo-BXTF8jd4QbJpRDLUZS8XjOoa5wVFvTQxXU8sL6gZFuyZLBvvJgycqd25z4CITGHOmFjyxlECZuJ_Ujy79Y6toYPoif0mCFvwLVIu4J3dVP1V4v_PqK6hjeLa1QmzRfZDgWwdnK-MBVSgnakxQ04NlPns9E1QngIAxbiQtN8V-n8hAkxhy_qwXSH-NoyXn3BSFtHUPuOp-OAy7y7ix0OqOIlTf_-CRmgzt5gBEk1xZ1tjZ_zIGX5mJOeKWzMqp04hvSimVShSnM8mSW5l3S1hdFQ_99Vq17Q4sjqDlSKoArvmyC2e2AjFTGD3zSls6q00yQSeWrRwfJKBAMY61XBmkxtrerpkJjT0g=w672-h504-p-k-nu",
+      "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
+      "netlify": "https://regexpcalculator.netlify.app/"
+    },
+    {
+      "name": "e-commerce",
+      "description": "This is ecommerce website I designed and coded using HTML, CSS, BOOTSTRAP AND JAVASCRIPT(DOM).",
+      "image": "https://lh3.googleusercontent.com/fife/AGXqzDmvwcKmF-2_kstrHHOVApG4PCyTIm7Ch6bxOaulzJrZmXsnujiGAiLHSVW6BHnjCfcAKAbzxqaLqFreJZ24mEguqUBqn8mLBFakUl0GKb7Pqn4K5lxqc-Ad-cgVu2fIdoLibL0frt02uym0ECLcAqSeIPNSIU4L8oR7TSSmNDhGxpSaYGIXBGT-ngznpX6ZS4fYvsks1Y-Mx4m8jsG8PLChycSF3B3iI4S1V8Mta4B5EBXMLweLNrvjXh1ssFVoz3zAogvwiAggCa32FteqUHXgMCe_zCoVpiR6kjYmQi1i3fAgFl_i4B0HpisSykCg3C2GD9ftleND9IGmy_nkyLMp02GYxgZpexGc-8g1M6rEXpxGGEmp3QrJnZ3fVQbLIaR1PEnLG0WkYXFqF7gCAVYOMdv51DLu8UHvWbrT3LNvXI_bufBbl7iAlTey6grofbzMUMJvAYxHOOi501UbmpCNm-tlym3yoRtGfueJxhfqUSQlAq4wIufw8teKPdpO1t5ev7N7lG3K7mkIL1ENIZ4UMTDElsiK2GKVMFyxnllX93kNcl3eQ9xcS9-k1yz76w4FPdIUgwaIDo3FMUS2qw6xySEalfJVMZglXlgQ_HBk6nQrqRoZXmBK04vfL73zOgTTb63zCMRA_BjgHFB5dRk0YCxBRzvzTE2yJkNdfgu43cXyG4P1kq2L2yMMuaZbCVIAQ5PcYIijONGWIVTku3La9czL0YYBe6yrG1ZSYgacP7Xr_fkP8h1uFGjNDrg6OWfnpoScNN5AW69By2wA76qqwKAJkxRMUJ50c5Y4DLZ_-osEu4IckGf-0vVvvNwktKPhxB6CcSqtpT3584rDCcssWqxED3tY4e0EEBkCfnuSLQNUP2LgFta-XGFEXB5kZNb4yLZZP6DNYqmps4aFQhuHSwVA3L5qKVsztUYdR7ZJWuBOV4DLhQqM6FAbTUQba68J8AthB1vn9rRker1FlEkWgdLH1IC5rVgCZnLcVVVkPHMsA8KqOrBCSM6khcqC3PIkyhZjykJUeRguX7IU0xD2yk5SIqVsy5874QHcWtPrRduHVAvs0LtbNlXwM3HZLa61kvPLCvCZkOgMCC9NifnecGHL_q7h3TuBWwNszXncCA6yUFEc0QwxJzMZTnf8wJQnaNWtJzsMq_ISJhO45Bh7hzN_HXajBXpM6-aeOAGpQT6wooxkHprcFZqyThnznKzVw2wHAdUn9LZLRyXc7BpeaOTCaAgkHycfpTSjrKu84XLdYnTvfVbNYnG5GJHtFpKmdTlN0h2K0wH798F8ZriEUFpwleZm0iIjSsdsyYutIXDWaZ6hS_c9vq4Kyf5rAITVPpNorUiSwWnpj034mhNWgFdV5BpeqU9J7Tlyg-WHoi_Lv-HeVCx_Skeddn6qPNQXUgg9azerOZCZs6bkK7NbFQZHZkw2j-go4Y8suLnFBSYV2hy4XIG1LV4lta1Uvx3tRk8ObGk9vrIeqdAF_alDFmdUwe7_8v4C_41hBZT7PLfOXUABTbGs0g=w948-h710-p-k-nu",
+      "gitHub": "https://github.com/Mzwa1080/ecommerce",
+      "netlify": "https://louw-ecommerce-site.netlify.app/"
+    },
+    {
+      "name": "Random People API",
+      "description": "This is my introduction to API website that I build using HTML, CSS, BOOTSTRAP AND JAVASCRIPT.",
+      "image": "https://lh3.google.com/u/0/d/1Vv_SMRTddoZ_WvWJhy2e-Vy4NaDIvYR-=w2000-h1748-iv1",
+      "gitHub": "https://github.com/Mzwa1080/20Random",
+      "netlify": "https://shawn-20-random.netlify.app/"
+    },
+    {
+      "name": "to-do List",
+      "description": "I build this to-do list application using html, css and javascript",
+      "image": "https://lh3.googleusercontent.com/fife/AGXqzDmj4rnMgUb8iVhrOweA1754nBTg-N6pnnCOHcVjTPKd7Y-25rwKxdf5_kybzh6OQxCwI8heOKNfw3iTZcTof42AksVtqHTPMdxgG0M4idr7OHd-jwEXZKcM-ZdmMFWztEjoIFWndBW4U7jqDMIrYtXXGqTxvDvmvJHRdsWrVcClyAdcrkIwXIAwH07AyggYdSpoQ2YyqcdWp5845i8VSTHfghvPlhBhoYNnpSRx1NUlvIzW3wVQBCnV0JXnLeKE8GLkK-Hx_0wyxUHS-61YZ8sr2_ddIg4W7g1Hh6ERvwM-cU1XmrJn8r6Sq3IDv6LasCGK_i5u985_Bo_vbpSj14jpLj4Moha0ML6exP2l3W9so0YDkPnDewVK2rT3Fo4ceHUkoxIwaT9z4LrOjQmZYGMw65DoyKV4TsrY5BZiAAItj_RHgirQ-wPHo5d1e8gqVyb71pxJ8gaGttw90HgcvoBL9RMcOk0CDwk2GFEPGC8Msv9DNGVZiPPHAKzqkDkp1OXDrlXmbrUxzXoTO_kb4ijWL89N3C6KPlPfqmn9g_cSia5rcEwN9_WPb5Gi39BOc8wDHaDr2t3g9h6XFquh5DREZzfPN9pdQl9GU7VQchJTTRB60Kx1Wzof6zg55C9j6CwaZ4W1hWvEgQu4zeu9dQlWgjNT3WUHoFrMGQBTuAgi9fulGWTfadxasq2KQvVhitlm5AO8LpIeGeYueN5DnLRpQpo6273oXJQ6vtvsW_B5wyg3qEKn03s5j66swc4-WQgIibmTQDHTrvWjAppe0fBNNoyaIksxxkfmVSEDV7Kc9iUWzAneW1xMeKRP0x8mRjsmWSWGcpuYmMsRYYr_3RCdR1HlR6T8Xt3kkb24boHbJ0JOVFKjOwT_ZF69JqzcC61BBwlNaIjaJfBdRHs6M6OXcpJ83Tz8mZ0nWdYdvRoQ_qTeUCYgx6eHB8uRkNiISXYPirUt9ojBliURo8at0Y028Mrujac6ddNcj5ttfycW6Was5oEg-KBI7ByfUbxtP6naYzeaNRAuGVDSyQoDcn_qG0XNmyVAkTKreG5x8z10ov-9ALMedxttKZ1Nw0097GmZ_oY1ui9hDESCChUUstGpumxbVe33crkPrTzcs3i7NszcfEY3srSLsH-PpcdL6XxYLywl-syHixTFkSPyjfI4aAa5ztPj3LcJl9g-E1DztoYLjpzyp5Axpt5PAqr06pRkrKtrm45ZQOm1IRj1RksCgTuZVyKE75v0p4urGZ_sMM38k4UO4c4tgvFFkuwJiMP7VoQxzKICBmLi3ZGj5qRi2oESN9nL2efAPc3-9Z7TB9AiXaatpRD7WveNkTJH23OFjkMaZPSZ0TDfBEcpVMu7xREDbyIr7wxdtzbYtKD0CN5xdXbjabvFMtgpInSYQnEUnB1GJr2LimugD-8_aIykSLe45I7T2y9ufL1nj-sw5Dc6tnkN5UGdzwDvk9_k_c1ItJ1BNbNuf4oPlKfkiaEWFVQRBcX4cdHIhl48ZOpQZ75FrT3uUgbE2A=w2000-h1748",
+      "gitHub": "https://github.com/Mzwa1080/to-do-list",
+      "netlify": "https://dom-todo-listt.netlify.app/"
+    }
+  ]
 }
