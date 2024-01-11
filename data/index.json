@@ -131,5 +131,14 @@
       "netlify": "https://louw-min-to-sec.netlify.app/"
     }
 
-  ]
+  ],
+  "contacts": [
+    {
+      "name": "Mzwamadoda Louw",
+      "description": "Web developer Graduated at Life Choices",
+      "gitHub": "https://github.com/Mzwa1080/",
+      "linkedin": "https://www.linkedin.com/in/mzwamadoda-shawn-louw-a55aa414b/",
+      "whatsApp": "https://web.whatsapp.com/",
+      "call" : "0794408723"
+    },
 }
