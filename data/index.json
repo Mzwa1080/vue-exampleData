@@ -13,21 +13,21 @@
     {
       "id": 1,
       "year": 2023,
-      "description": "I currently studying web development",
+      "description": "I recently graduated as full stack web developer",
       "place": "Life Choices",
       "type": "certificate"
     },
     {
       "id": 2,
       "year": 2023,
-      "description": "I got my certificates on Software Development",
+      "description": "I graduated as a Software Development",
       "place": "Codetelligence Academy",
       "type": "certificate"
     },
     {
       "id": 3,
       "year": 2018,
-      "description": "I got my certificates on Full stack web development",
+      "description": "I graduated and got my certificates on Full stack web development",
       "place": "Codex",
       "type": "certificate"
     },
@@ -42,23 +42,34 @@
   "skills": [
     {
       "title": "GIT & GITHUB",
-      "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
     },
     {
-      "title": "HTML",
-      "experience": "I have a decade of experience in web development using the following technologies: HTML, CSS, Bootstrap, JQuery, and Javascript. I am still building applications using the mentioned technologies."
+      "title": "HTML5",
     },
     {
       "title": "CSS",
-      "experience": "I've have been working on different types of databases since 2009, both SQL-structured and document-based. I enjoy working on a database; for me, that is where the magic happens. A well-structured database is the result of data integrity and many more."
     },
     {
       "title": "BOOTSTRAP",
-      "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
+    },
+    ,
+    {
+      "title": "FIGMA",
+    },
+    {
+      "title": "JAVASCRIPT",
     },
     {
       "title": "VUEJS",
-      "experience": "When it comes to programming, I have a lot to say, but I will be brief. Programming and database management are the skills that will stay with me forever, even though it is my first time to come across another programming language. It is crazy how I knew it syntax before starting coding. I have a decade of working experience on the following programming languages: C++, Python, Delphi, Javascript, VB.Net, C#, and Java. I still want to learn more about them."
+    },
+    {
+      "title": "MYSQL",
+    },
+         {
+      "title": "EXPRESSJS",
+    },
+     {
+      "title": "NODEJS",
     }
   ],
   "testimonials": [
@@ -131,7 +142,7 @@
     },
     {
       "name": "to-do List",
-      "description": "I built this to-do list application using html, css and javascript",
+      "description": " created a straightforward to-do list application using HTML, CSS, and JavaScript. This application enables users to add tasks, mark them as completed, and delete them as needed. It provides a user-friendly interface for managing tasks efficiently and staying organized.",
       "image": "https://i.ibb.co/J2b1MPz/to-do.png",
       "gitHub": "https://github.com/Mzwa1080/to-do-list",
       "netlify": "https://dom-todo-listt.netlify.app/"
@@ -139,21 +150,37 @@
     ,
     {
       "name": "Minutes to Seconds Converter",
-      "description": "I built this min to sec converter application using html, css and javascrip(document object model).",
+      "description": "I developed a simple minute to second converter application using HTML, CSS, and JavaScript with a focus on the Document Object Model (DOM). This application allows users to input a value in minutes and converts it to seconds in real-time, providing a seamless user experience.",
       "image": "https://i.ibb.co/MgD0Lnm/min-to-sec.png",
       "gitHub": "https://github.com/Mzwa1080/min-to-sec",
       "netlify": "https://louw-min-to-sec.netlify.app/"
+    }
+        ,
+    {
+      "name": "Haa-zwaa Coffee Shop",
+      "description": "This project was a collaborative effort between myself and Haanim. While I focused on the front-end development, my colleague handled the backend. We utilized a variety of technologies including Figma for design, Vue.js for the front-end, and Node.js with Express.js for the backend. Our database was managed using MySQL. Working together, we successfully integrated these technologies to bring our project to life",
+      "image": "https://i.ibb.co/XC3RbFC/Screenshot-2024-03-31-010808.png",
+      "gitHub": "https://github.com/Mzwa1080/coffee_shop_eomp",
+      "firebase": "https://haa-zwaa.web.app/"
+    }
+        ,
+    {
+      "name": "Capstone Project(One Stop DotConnect)",
+      "description": "This project allows users to request services with service providers. I focused on both front-end and the backend using (Vue.js for the front-end, and Node.js with Express.js for the backend and MYSQL for database).",
+      "image": "https://i.ibb.co/r3bdmDB/osd-capstone.png",
+      "gitHub": "https://github.com/Mzwa1080/OSD-CAPSTONE",
+      "firebase": "https://capstone-osd.web.app/"
     }
 
   ],
   "contacts": [
     {
       "name": "Mzwamadoda Louw",
-      "description": "Web developer Graduated at Life Choices",
+      "description": "Life Choices graduate proficient in Full Stack Web Development.",
       "gitHub": "https://github.com/Mzwa1080/",
       "linkedin": "https://www.linkedin.com/in/mzwamadoda-shawn-louw-a55aa414b/",
       "whatsApp": "https://web.whatsapp.com/",
-      "call" : "0794408723"
+      "call" : "+27794408723"
     }
   ]
 }
