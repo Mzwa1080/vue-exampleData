@@ -41,41 +41,41 @@
   ],
   "skills": [
     {
-      "title": "GIT & GITHUB",
+      "title": "GIT & GITHUB"
     },
     {
-      "title": "HTML5",
+      "title": "HTML5"
     },
     {
-      "title": "CSS",
+      "title": "CSS"
     },
     {
-      "title": "BOOTSTRAP",
+      "title": "BOOTSTRAP"
     },
     ,
     {
-      "title": "FIGMA",
+      "title": "FIGMA"
     },
     {
-      "title": "JAVASCRIPT",
+      "title": "JAVASCRIPT"
     },
     {
-      "title": "VUEJS",
+      "title": "VUEJS"
     },
     {
-      "title": "MYSQL",
+      "title": "MYSQL"
     },
          {
-      "title": "EXPRESSJS",
+      "title": "EXPRESSJS"
     },
      {
-      "title": "NODEJS",
+      "title": "NODEJS"
     }
   ],
   "testimonials": [
     {
       "name": "Mzwakhe",
-      "surname": "Louw - Mentor",
+      "surname": "Louw - Peer",
       "quotes": "Mzwamandoda Louw is a highly dedicated and inquisitive individual with an unwavering focus on achieving project goals. During our collaborative work on a company website project, he consistently exhibited a strong commitment to learning and problem-solving. Even when we encountered challenges that seemed insurmountable, he demonstrated a remarkable willingness to go the extra mile and thoroughly investigate areas that required further understanding until he successfully grasped the concepts..",
       "profile": "https://i.ibb.co/TKGbXvK/mzwakhe.jpg"
       
