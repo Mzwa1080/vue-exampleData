@@ -52,7 +52,6 @@
     {
       "title": "BOOTSTRAP"
     },
-    ,
     {
       "title": "FIGMA"
     },
@@ -65,10 +64,10 @@
     {
       "title": "MYSQL"
     },
-         {
+    {
       "title": "EXPRESSJS"
     },
-     {
+    {
       "title": "NODEJS"
     }
   ],
