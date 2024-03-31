@@ -15,28 +15,35 @@
       "year": 2024,
       "description": "I recently graduated as full stack web developer",
       "place": "Life Choices",
-      "type": "certificate"
+      "type": "certificate",
+      "accentColor": "#FBCA3E"
     },
     {
       "id": 2,
       "year": 2023,
       "description": "I graduated as a Software Development",
       "place": "Codetelligence Academy",
-      "type": "certificate"
+      "type": "certificate",
+            "accentColor": "#E24A68"
+
     },
     {
       "id": 3,
       "year": 2018,
       "description": "I graduated and got my certificates on Full stack web development",
       "place": "Codex",
-      "type": "certificate"
+      "type": "certificate",
+                  "accentColor": "#1B5F8C"
+
     },
     {
       "id": 4,
       "year": 2016,
       "description": "I got my certificate on Higher Certificate",
       "place": "Luhlaza High School",
-      "type": "certificate"
+      "type": "certificate",
+                        "accentColor": "#4CADAD"
+
     }
   ],
   "skills": [
