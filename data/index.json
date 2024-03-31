@@ -41,34 +41,47 @@
   ],
   "skills": [
     {
-      "title": "GIT & GITHUB"
+      "title": "GIT & GITHUB",
+      "img" : "https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"
     },
     {
-      "title": "HTML5"
+      "title": "HTML5",
+      "img" : "https://static-00.iconduck.com/assets.00/html5-icon-2018x2048-st7q7lm6.png"
     },
     {
-      "title": "CSS"
+      "title": "CSS",
+      "img" : "https://e7.pngegg.com/pngimages/241/797/png-clipart-cascading-style-sheets-css3-javascript-logo-world-wide-web-blue-angle-thumbnail.png"
     },
     {
-      "title": "BOOTSTRAP"
+      "title": "BOOTSTRAP",
+      "img" : "https://e7.pngegg.com/pngimages/439/345/png-clipart-bootstrap-logo-thumbnail-tech-companies.png"
+
     },
     {
-      "title": "FIGMA"
+      "title": "FIGMA",
+            "img" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"
+
     },
     {
-      "title": "JAVASCRIPT"
+      "title": "JAVASCRIPT",
+                  "img" : "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+
     },
     {
-      "title": "VUEJS"
+      "title": "VUEJS",
+                  "img" : "https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png"
+
     },
     {
-      "title": "MYSQL"
+      "title": "MYSQL",
+                  "img" : "https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png"
+
     },
+
     {
-      "title": "EXPRESSJS"
-    },
-    {
-      "title": "NODEJS"
+      "title": "NODEJS",
+                  "img" : "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"
+
     }
   ],
   "testimonials": [
