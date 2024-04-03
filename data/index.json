@@ -135,7 +135,7 @@
   
     {
       "name": "Haa-zwaa Coffee Shop",
-      "description": "This project was a collaborative effort between myself and Haanim. While I focused on the front-end development, my colleague handled the backend. We utilized a variety of technologies including Figma for design, Vue.js for the front-end, and Node.js with Express.js for the backend. Our database was managed using MySQL. Working together, we successfully integrated these technologies to bring our project to life",
+      "description": "This project was a collaborative effort between myself and Haanim. While I focused on the front-end development, my colleague handled the backend. We utilized Figma for design, Vue.js for the front-end, and Node.js with Express.js for the backend. Our database was managed using MySQL.",
       "image": "https://i.ibb.co/XC3RbFC/Screenshot-2024-03-31-010808.png",
       "gitHub": "https://github.com/Mzwa1080/coffee_shop_eomp",
       "netlify": "https://haa-zwaa.web.app/"
