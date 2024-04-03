@@ -124,13 +124,28 @@
       "profile": "https://i.ibb.co/fHHnwgR/20231009-110208p-p.jpg"
     }
   ],
-  "projects": [
+  "projects": [        
     {
-      "name": "Calculator",
-      "description": "I built this calculator application using HTML 5, CSS and Javascript.",
-      "image": "https://i.ibb.co/ZGZxTft/calc.png",
-      "gitHub": "https://github.com/Mzwa1080/Calculator",
-      "netlify": "https://louw-calculator.netlify.app/"
+      "name": "Capstone Project(One Stop DotConnect)",
+      "description": "This project allows users to request services with service providers. I focused on both front-end and the backend using (Vue.js for the front-end, and Node.js with Express.js for the backend and MYSQL for database).",
+      "image": "https://i.ibb.co/r3bdmDB/osd-capstone.png",
+      "gitHub": "https://github.com/Mzwa1080/OSD-CAPSTONE",
+      "netlify": "https://capstone-osd.web.app/"
+    },
+  
+    {
+      "name": "Haa-zwaa Coffee Shop",
+      "description": "This project was a collaborative effort between myself and Haanim. While I focused on the front-end development, my colleague handled the backend. We utilized a variety of technologies including Figma for design, Vue.js for the front-end, and Node.js with Express.js for the backend. Our database was managed using MySQL. Working together, we successfully integrated these technologies to bring our project to life",
+      "image": "https://i.ibb.co/XC3RbFC/Screenshot-2024-03-31-010808.png",
+      "gitHub": "https://github.com/Mzwa1080/coffee_shop_eomp",
+      "netlify": "https://haa-zwaa.web.app/"
+    }, 
+    {
+      "name": "e-commerce",
+      "description": "This is ecommerce website I designed and coded using HTML, CSS, BOOTSTRAP AND JAVASCRIPT(DOM).",
+      "image": "https://i.ibb.co/R3y49KW/ecoommerce.png",
+      "gitHub": "https://github.com/Mzwa1080/ecommerce",
+      "netlify": "https://louw-ecommerce-site.netlify.app/"
     },
     {
       "name": "Temperature Converter(F-C)",
@@ -140,12 +155,13 @@
       "netlify": "https://louw-temperature-converter.netlify.app/"
     },
     {
-      "name": "e-commerce",
-      "description": "This is ecommerce website I designed and coded using HTML, CSS, BOOTSTRAP AND JAVASCRIPT(DOM).",
-      "image": "https://i.ibb.co/R3y49KW/ecoommerce.png",
-      "gitHub": "https://github.com/Mzwa1080/ecommerce",
-      "netlify": "https://louw-ecommerce-site.netlify.app/"
+      "name": "Calculator",
+      "description": "I built this calculator application using HTML 5, CSS and Javascript.",
+      "image": "https://i.ibb.co/ZGZxTft/calc.png",
+      "gitHub": "https://github.com/Mzwa1080/Calculator",
+      "netlify": "https://louw-calculator.netlify.app/"
     },
+   
     {
       "name": "Random People API",
       "description": "This is my introduction to API website that I build using HTML, CSS, BOOTSTRAP AND JAVASCRIPT.",
@@ -159,8 +175,7 @@
       "image": "https://i.ibb.co/J2b1MPz/to-do.png",
       "gitHub": "https://github.com/Mzwa1080/to-do-list",
       "netlify": "https://dom-todo-listt.netlify.app/"
-    }
-    ,
+    },
     {
       "name": "Minutes to Seconds Converter",
       "description": "I developed a simple minute to second converter application using HTML, CSS, and JavaScript with a focus on the Document Object Model (DOM). This application allows users to input a value in minutes and converts it to seconds in real-time, providing a seamless user experience.",
@@ -168,22 +183,8 @@
       "gitHub": "https://github.com/Mzwa1080/min-to-sec",
       "netlify": "https://louw-min-to-sec.netlify.app/"
     }
-        ,
-    {
-      "name": "Haa-zwaa Coffee Shop",
-      "description": "This project was a collaborative effort between myself and Haanim. While I focused on the front-end development, my colleague handled the backend. We utilized a variety of technologies including Figma for design, Vue.js for the front-end, and Node.js with Express.js for the backend. Our database was managed using MySQL. Working together, we successfully integrated these technologies to bring our project to life",
-      "image": "https://i.ibb.co/XC3RbFC/Screenshot-2024-03-31-010808.png",
-      "gitHub": "https://github.com/Mzwa1080/coffee_shop_eomp",
-      "netlify": "https://haa-zwaa.web.app/"
-    }
-        ,
-    {
-      "name": "Capstone Project(One Stop DotConnect)",
-      "description": "This project allows users to request services with service providers. I focused on both front-end and the backend using (Vue.js for the front-end, and Node.js with Express.js for the backend and MYSQL for database).",
-      "image": "https://i.ibb.co/r3bdmDB/osd-capstone.png",
-      "gitHub": "https://github.com/Mzwa1080/OSD-CAPSTONE",
-      "netlify": "https://capstone-osd.web.app/"
-    }
+   
+
 
   ],
   "contacts": [
