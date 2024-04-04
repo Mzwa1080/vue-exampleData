@@ -24,7 +24,7 @@
       "description": "I graduated as a Software Development",
       "place": "Codetelligence Academy",
       "type": "certificate",
-            "accentColor": "#FBCA3E"
+            "accentColor": "#808080"
 
     },
     {
@@ -33,7 +33,7 @@
       "description": "I graduated and got my certificates on Full stack web development",
       "place": "Codex",
       "type": "certificate",
-                  "accentColor": "#FBCA3E"
+                  "accentColor": "#808080"
 
     },
     {
@@ -42,7 +42,7 @@
       "description": "I got my certificate on Higher Certificate",
       "place": "Luhlaza High School",
       "type": "certificate",
-                        "accentColor": "#808080",
+                        "accentColor": "#FBCA3E",
       "subjects": "Mathematics, Life Science, Physics, English, IsiXhosa, Geography, L.O"
 
     }
