@@ -12,7 +12,7 @@
   "education": [
     {
       "id": 1,
-      "year": 2023 - 2024,
+      "year": "2023 - 2024",
       "month":"Sep - Apr",
       "description": "I recently graduated as full stack web developer",
       "place": "Life Choices Academy",
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "year": 2023(Feb) - 2023(July),
+      "year": "2023(Feb) - 2023(July)",
       "description": "I graduated as a Software Development",
       "place": "Codetelligence Academy",
       "type": "certificate",
@@ -30,7 +30,7 @@
     },
     {
       "id": 3,
-      "year": 2018(Feb) - 2018(Nov),
+      "year": "2018(Feb) - 2018(Nov)",
       "description": "I graduated and got my certificates on Full stack web development",
       "place": "Codex",
       "type": "certificate",
@@ -39,7 +39,7 @@
     },
     {
       "id": 4,
-      "year": 2012(Jan) - 2016(Dec),
+      "year": "2012(Jan) - 2016(Dec)",
       "description": "I got my certificate on Higher Certificate",
       "place": "Luhlaza High School",
       "type": "certificate",
