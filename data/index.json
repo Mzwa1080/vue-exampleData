@@ -89,17 +89,17 @@
 
     {
       "title": "NODEJS",
-                  "img" : "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"
+      "img" : "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"
 
     },
         {
-      "title": "NETWORKING - TECHNICIAN",
-                  "img" : "https://i.ibb.co/Zdgp16f/NETWORKING-TECHNICIAN.png"
+      "title": "NETWORKING TECHNICIAN",
+        "img" : "https://i.ibb.co/Zdgp16f/NETWORKING-TECHNICIAN.png"
 
     },
      {
-      "title": "NETWORKING - SUPPORT AND SECURITY",
-                  "img" : "https://i.ibb.co/6yFn9t7/NETWORK-SUPPORT-AND-SECURITY.png"
+      "title": "NETWORKING SUPPORT AND SECURITY",
+        "img" : "https://i.ibb.co/6yFn9t7/NETWORK-SUPPORT-AND-SECURITY.png"
 
     }
   ],
