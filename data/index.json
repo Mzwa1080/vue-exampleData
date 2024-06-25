@@ -86,7 +86,6 @@
 
     },
     
-
     {
       "title": "NODEJS",
       "img" : "https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png"
@@ -105,6 +104,11 @@
      {
       "title": "NETWORK SUPPORT AND SECURITY",
         "img" : "https://i.ibb.co/6yFn9t7/NETWORK-SUPPORT-AND-SECURITY.png"
+
+    },
+     {
+      "title": "UI/UX - FIGMA",
+        "img" : "https://i.ibb.co/QcC8Pr5/Figma-1.png"
 
     }
   ],
