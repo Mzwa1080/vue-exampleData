@@ -165,9 +165,16 @@
       "image": "https://i.ibb.co/XC3RbFC/Screenshot-2024-03-31-010808.png",
       "gitHub": "https://github.com/Mzwa1080/coffee_shop_eomp",
       "netlify": "https://haa-zwaa.web.app/"
-    }, 
+    },
     {
-      "name": "e-commerce",
+      "name": "Nature Nibbles(WooCommerce)",
+      "description": "Collaborated on a team project using WordPress (Pantheon) to create a WooCommerce site. I was responsible for developing the Home and Products pages, ensuring they were functional and visually appealing.",
+      "image": "https://i.ibb.co/PZn4SV9/nature-nibbles.png",
+      "gitHub": "#",
+      "netlify": "https://dev-natures-nibbles.pantheonsite.io/"
+    },
+    {
+      "name": "Loop Sneaker Shop(e-commerce)",
       "description": "This is ecommerce website I designed and coded using HTML, CSS, BOOTSTRAP AND JAVASCRIPT(DOM).",
       "image": "https://i.ibb.co/R3y49KW/ecoommerce.png",
       "gitHub": "https://github.com/Mzwa1080/ecommerce",
