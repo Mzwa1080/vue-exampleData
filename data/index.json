@@ -150,7 +150,14 @@
       "profile": "https://i.ibb.co/pQK035Q/ghamza2.jpg"
     }
   ],
-  "projects": [        
+  "projects": [ 
+        {
+      "name": "Book Library",
+      "description": "This is my first project built using Angular JS(18). The website allows users to browse and manage books with key features like authentication, a cart system, the ability to view a single book, remove books from the cart, and checkout. Hosted on Firebase, it provides a smooth and responsive experience.",
+      "image": "https://i.ibb.co/zXf8YQQ/book-library.png",
+      "gitHub": "https://github.com/Mzwa1080/angular-task",
+      "netlify": "https://angular-task-b208b.web.app/"
+    },
     {
       "name": "Capstone Project(One Stop DotConnect)",
       "description": "This project allows users to request services with service providers. I focused on both front-end and the backend using (Vue.js for the front-end, and Node.js with Express.js for the backend and MYSQL for database).",
