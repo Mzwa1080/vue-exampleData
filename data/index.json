@@ -24,7 +24,7 @@
       "description": "I graduated as a software developer",
       "place": "Codetelligence Academy",
       "type": "certificate",
-            "accentColor": "#808080"
+            "accentColor": "#FBCA3E"
 
     },
     {
@@ -33,13 +33,13 @@
       "description": "I graduated and obtained my certificates in full stack web development.",
       "place": "Codex",
       "type": "certificate",
-                  "accentColor": "#808080"
+                  "accentColor": "#FBCA3E"
 
     },
     {
       "id": 4,
       "year": "2012(Jan) - 2016(Dec)",
-      "description": "I got my certificate on Higher Certificate",
+      "description": "I obtained my matric certificate",
       "place": "Luhlaza High School",
       "type": "certificate",
                         "accentColor": "#FBCA3E",
