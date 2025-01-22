@@ -158,6 +158,13 @@
       "gitHub": "https://github.com/Mzwa1080/angular-task",
       "netlify": "https://angular-task-b208b.web.app/"
     },
+        {
+      "name": "Nature Nibbles(WooCommerce)",
+      "description": "Collaborated on a team project using WordPress (Pantheon) to create a WooCommerce site. I was responsible for developing the Home and Products pages, ensuring they were functional and visually appealing.",
+      "image": "https://i.ibb.co/PZn4SV9/nature-nibbles.png",
+      "gitHub": "#",
+      "netlify": "https://dev-natures-nibbles.pantheonsite.io/"
+    },
     {
       "name": "Capstone Project(One Stop DotConnect)",
       "description": "This project allows users to request services with service providers. I focused on both front-end and the backend using (Vue.js for the front-end, and Node.js with Express.js for the backend and MYSQL for database).",
@@ -173,58 +180,14 @@
       "gitHub": "https://github.com/Mzwa1080/coffee_shop_eomp",
       "netlify": "https://haa-zwaa.web.app/"
     },
-    {
-      "name": "Nature Nibbles(WooCommerce)",
-      "description": "Collaborated on a team project using WordPress (Pantheon) to create a WooCommerce site. I was responsible for developing the Home and Products pages, ensuring they were functional and visually appealing.",
-      "image": "https://i.ibb.co/PZn4SV9/nature-nibbles.png",
-      "gitHub": "#",
-      "netlify": "https://dev-natures-nibbles.pantheonsite.io/"
-    },
+
     {
       "name": "Loop Sneaker Shop(e-commerce)",
       "description": "This is ecommerce website I designed and coded using HTML, CSS, BOOTSTRAP AND JAVASCRIPT(DOM).",
       "image": "https://i.ibb.co/R3y49KW/ecoommerce.png",
       "gitHub": "https://github.com/Mzwa1080/ecommerce",
       "netlify": "https://louw-ecommerce-site.netlify.app/"
-    },
-    {
-      "name": "Temperature Converter(F-C)",
-      "description": "This is my Temperature Converter app, and I built it using HTML 5, CSS 3, bootstrap and Javascript.",
-      "image": "https://i.ibb.co/sF9qqrT/Temperature.png",
-      "gitHub": "https://github.com/Mzwa1080/temperature-converter",
-      "netlify": "https://louw-temperature-converter.netlify.app/"
-    },
-    {
-      "name": "Calculator",
-      "description": "I built this calculator application using HTML 5, CSS and Javascript.",
-      "image": "https://i.ibb.co/ZGZxTft/calc.png",
-      "gitHub": "https://github.com/Mzwa1080/Calculator",
-      "netlify": "https://louw-calculator.netlify.app/"
-    },
-   
-    {
-      "name": "Random People API",
-      "description": "This is my introduction to API website that I build using HTML, CSS, BOOTSTRAP AND JAVASCRIPT.",
-      "image": "https://i.ibb.co/7JJsZxf/random.png",
-      "gitHub": "https://github.com/Mzwa1080/20Random",
-      "netlify": "https://shawn-20-random.netlify.app/"
-    },
-    {
-      "name": "to-do List",
-      "description": " created a straightforward to-do list application using HTML, CSS, and JavaScript. This application enables users to add tasks, mark them as completed, and delete them as needed. It provides a user-friendly interface for managing tasks efficiently and staying organized.",
-      "image": "https://i.ibb.co/J2b1MPz/to-do.png",
-      "gitHub": "https://github.com/Mzwa1080/to-do-list",
-      "netlify": "https://dom-todo-listt.netlify.app/"
-    },
-    {
-      "name": "Minutes to Seconds Converter",
-      "description": "I developed a simple minute to second converter application using HTML, CSS, and JavaScript with a focus on the Document Object Model (DOM). This application allows users to input a value in minutes and converts it to seconds in real-time, providing a seamless user experience.",
-      "image": "https://i.ibb.co/MgD0Lnm/min-to-sec.png",
-      "gitHub": "https://github.com/Mzwa1080/min-to-sec",
-      "netlify": "https://louw-min-to-sec.netlify.app/"
     }
-   
-
 
   ],
   "contacts": [
