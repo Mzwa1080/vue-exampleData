@@ -182,11 +182,11 @@
     },
 
     {
-      "name": "Loop Sneaker Shop(e-commerce)",
-      "description": "This is ecommerce website I designed and coded using HTML, CSS, BOOTSTRAP AND JAVASCRIPT(DOM).",
-      "image": "https://i.ibb.co/R3y49KW/ecoommerce.png",
-      "gitHub": "https://github.com/Mzwa1080/ecommerce",
-      "netlify": "https://louw-ecommerce-site.netlify.app/"
+      "name": "Roster Management System",
+      "description": "This Angular web app displays a daily team roster using Google Charts to visualize task distribution among developers. It uses a JSON-based data structure, loads dynamically, and presents key management insights. Login Details: David Bishops(Team Leader) password:1234",
+      "image": "https://i.ibb.co/kg5tpn4f/roster.png",
+      "gitHub": "https://github.com/Mzwa1080/roster-management-system",
+      "netlify": "https://roster-management-system-57c33.web.app/dashboard"
     }
 
   ],
