@@ -151,42 +151,42 @@
     }
   ],
   "projects": [ 
-      {
-        "name": "Roster Management System",
-        "description" : "This Angular web app displays a daily team roster using Google Charts to visualize task distribution among developers. It uses a JSON-based data structure, loads dynamically, and presents key management insights. Login Details: David Bishops(Team Leader) password:1234",
-        "image" : "https://i.ibb.co/kg5tpn4f/roster.png",
-        "github": "https://github.com/Mzwa1080/roster-management-system",
-        "netlify": "roster-management-system-57c33.web.app/dashboard"
-      },    
-      {
+             {
       "name": "Book Library",
       "description": "This is my first project built using Angular JS(18). The website allows users to browse and manage books with key features like authentication, a cart system, the ability to view a single book, remove books from the cart, and checkout. Hosted on Firebase, it provides a smooth and responsive experience.",
       "image": "https://i.ibb.co/zXf8YQQ/book-library.png",
       "gitHub": "https://github.com/Mzwa1080/angular-task",
       "netlify": "https://angular-task-b208b.web.app/"
-      },
-      {
+    },
+        {
       "name": "Nature Nibbles(WooCommerce)",
       "description": "Collaborated on a team project using WordPress (Pantheon) to create a WooCommerce site. I was responsible for developing the Home and Products pages, ensuring they were functional and visually appealing.",
       "image": "https://i.ibb.co/PZn4SV9/nature-nibbles.png",
       "gitHub": "#",
       "netlify": "https://dev-natures-nibbles.pantheonsite.io/"
-       },
-       {
+    },
+    {
       "name": "Capstone Project(One Stop DotConnect)",
       "description": "This project allows users to request services with service providers. I focused on both front-end and the backend using (Vue.js for the front-end, and Node.js with Express.js for the backend and MYSQL for database).",
       "image": "https://i.ibb.co/r3bdmDB/osd-capstone.png",
       "gitHub": "https://github.com/Mzwa1080/OSD-CAPSTONE",
       "netlify": "https://capstone-osd.web.app/"
-      },
-      {
+    },
+  
+    {
       "name": "Haa-zwaa Coffee Shop",
       "description": "This project was a collaborative effort between myself and Haanim. While I focused on the front-end development, my colleague handled the backend. We utilized Figma for design, Vue.js for the front-end, and Node.js with Express.js for the backend. Our database was managed using MySQL.",
       "image": "https://i.ibb.co/XC3RbFC/Screenshot-2024-03-31-010808.png",
       "gitHub": "https://github.com/Mzwa1080/coffee_shop_eomp",
       "netlify": "https://haa-zwaa.web.app/"
-      }
-
+    },
+    {
+      "name": "Roster Management System",
+      "description": "This Angular web app displays a daily team roster using Google Charts to visualize task distribution among developers. It uses a JSON-based data structure, loads dynamically, and presents key management insights. Login Details: David Bishops(Team Leader) password:1234",
+      "image": "https://i.ibb.co/kg5tpn4f/roster.png",
+      "gitHub": "https://github.com/Mzwa1080/roster-management-system",
+      "netlify": "https://roster-management-system-57c33.web.app/dashboard"
+    }
   ],
   "contacts": [
     {
