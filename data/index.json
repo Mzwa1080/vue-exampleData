@@ -152,14 +152,14 @@
   ],
   "projects": [ 
       {
-        "name": "Roster Management System - Angular(19)",
+        "name": "Roster Management System",
         "description" : "This Angular web app displays a daily team roster using Google Charts to visualize task distribution among developers. It uses a JSON-based data structure, loads dynamically, and presents key management insights. Login Details: David Bishops(Team Leader) password:1234",
         "image" : "https://i.ibb.co/kg5tpn4f/roster.png",
         "github": "https://github.com/Mzwa1080/roster-management-system",
         "netlify": "roster-management-system-57c33.web.app/dashboard"
       },    
       {
-      "name": "Book Library - Angular(18)",
+      "name": "Book Library",
       "description": "This is my first project built using Angular JS(18). The website allows users to browse and manage books with key features like authentication, a cart system, the ability to view a single book, remove books from the cart, and checkout. Hosted on Firebase, it provides a smooth and responsive experience.",
       "image": "https://i.ibb.co/zXf8YQQ/book-library.png",
       "gitHub": "https://github.com/Mzwa1080/angular-task",
